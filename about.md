@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! In real life I’m Simone Aonzo, online I'm "packmad" (in the past "six110").
 
-I’m Italian, I was born and I live in Savona in 1988.
+I’m [Italian](https://en.wikipedia.org/wiki/Italy), I was born and I live in [Savona](https://en.wikipedia.org/wiki/Savona) in 1988.
 
 I have always lived with the scent of the sea. I love swim and sail.
 
@@ -21,7 +21,7 @@ After I've set aside enough money, I started again to study and I achieved the M
 
 After graduation I worked as a security software developer at [Talos](https://talos-sec.com/).
 
-Again, I realized that it wasn’t my way.
+But I realized that it wasn’t my way.
 So I started a PhD in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and I think I've realized that my future will be in research.
 
 > Listen, Morty, I hate to break it to you, but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
@@ -30,4 +30,4 @@ So I started a PhD in Computer Science and Systems Engineering of the [Departmen
 But I always was a terrible student. Why?
 Because I love break rules, I search the shortest path, I do not accept what I see and I want to do also whatever I love giving my best effort.
 
-That’s why I’m in love with IT security.
+That’s why I’m in love with [computer security](https://en.wikipedia.org/wiki/Computer_security).
