@@ -237,9 +237,16 @@ nav {
   }
 }
 
-//
-// .main
-//
+.page {
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 18px;
+    font-style: italic;
+  }
+}
 
 .posts > .post {
   padding-bottom: 2em;
@@ -257,7 +264,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 20px;
     font-style: italic;
   }
 
