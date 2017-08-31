@@ -81,7 +81,7 @@ $ sudo chmod 6771 example
 $ ls -l
 total 16
 -rw-rw-r-- 1 simo simo 294 gen 17 16:21 ids.c
--rw<span style="color: #ff0000;">s</span>rw<span style="color: #ff0000;">s</span>--x 1 root root 8816 gen 17 16:29 example
+-rwsrws--x 1 root root 8816 gen 17 16:29 example
 $ ./example
 ruid=1000 euid=0
 rgid=1000 egid=0
@@ -90,7 +90,7 @@ rgid=1000 egid=0
 1.  I compiled the example;
 2.  I changed the owner and the group from "simo" to "root";
 3.  I ran the program and I got the same ids;
-4.  I set the setuid and the setgid, look the red "<span style="color: #ff0000;">s</span>";
+4.  I set the setuid and the setgid, pay attention to the `s` here `-rwsrws--x 1 root root 8816 gen 17 16:29 example`
 5.  Ids changes accordingly!
 
 **Hint**: in addition to the restriction on s(u|g)id interpreted scripts (any executable text file beginning with "#!"), some shells (like bash) as an extra safety measure will set the EUID back to the RUID; in this case, you will need to wrap the call to the script within a C program and setuid(...) before executing the script.
