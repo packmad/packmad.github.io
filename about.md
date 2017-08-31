@@ -4,22 +4,27 @@ title: About
 permalink: /about/
 ---
 
+### Personal life
 Hi! In real life I’m Simone Aonzo, online I'm "packmad" (in the past "six110").
 
-I’m [Italian](https://en.wikipedia.org/wiki/Italy), I was born and I live in [Savona](https://en.wikipedia.org/wiki/Savona) in 1988.
+I’m [Italian](https://en.wikipedia.org/wiki/Italy), I was born and I live in [Savona](https://en.wikipedia.org/wiki/Savona) since 1988.
 
-I have always lived with the scent of the sea. I love swim and sail.
+But I studied and lived in [Genova](https://en.wikipedia.org/wiki/Genoa) and I consider it one of the most [magical](https://www.youtube.com/watch?v=Hg3Fq85azck) cities I've ever seen.
 
-I’m proudly father of twins: Francesco and Alessandro. They are born in 2010.
+So I have always lived with the scent of the sea, maybe it's the reason why I love swim and sail.
 
-I was a pro fighter until 2015 ([K1](https://en.wikipedia.org/wiki/K-1) was my specialty), but now I train my shots for taste the Italian food without getting fatter 🙂
+I’m proudly father of two twins: Francesco and Alessandro. They are born in 2010.
+
+I was a pro fighter until 2015, [K1](https://en.wikipedia.org/wiki/K-1) was my specialty. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/). But now I train my shots only for tasting the Italian food without getting fatter 🙂
+
 
 ### Study / Work
+
 I worked as a system/network administrator until 2010.
 
 After I've set aside enough money, I started again to study and I achieved the Master of Science in Computer Science (cum laude) at the [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) in 2015.
 
-After graduation I worked as a security software developer at [Talos](https://talos-sec.com/).
+After graduation I worked as a security software developer at [Talos](https://talos-sec.com/) until 2017.
 
 But I realized that it wasn’t my way.
 So I started a PhD in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and I think I've realized that my future will be in research.
@@ -30,4 +35,13 @@ So I started a PhD in Computer Science and Systems Engineering of the [Departmen
 But I always was a terrible student. Why?
 Because I love break rules, I search the shortest path, I do not accept what I see and I want to do also whatever I love giving my best effort.
 
-That’s why I’m in love with [computer security](https://en.wikipedia.org/wiki/Computer_security).
+That’s why I’m in love with [computer security](https://en.wikipedia.org/wiki/Computer_security). More precisely my research topic are:
+* [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
+* [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
+* [Binary/Malware Analysis](https://en.wikipedia.org/wiki/Malware_analysis)
+* [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_%28computer_security%29)
+
+
+### Personal Interests
+I love:
+* cat &
