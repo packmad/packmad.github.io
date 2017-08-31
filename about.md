@@ -44,4 +44,5 @@ That’s why I’m in love with [computer security](https://en.wikipedia.org/wik
 
 ### Personal Interests
 I love:
-* cat &
+* [reading](https://packmad.github.io/books/)
+* cats & dogs
