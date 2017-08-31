@@ -18,43 +18,10 @@ debian-tor:x:121:133::/var/lib/tor:/bin/false
 
 We can infer:
 
-<table style="width: 100%;">
-
-<tbody>
-
-<tr>
-
-<td>**_User_**</td>
-
-<td>**_UID_**</td>
-
-<td>**_GID (primary)_**</td>
-
-</tr>
-
-<tr>
-
-<td>simo</td>
-
-<td>1000</td>
-
-<td>1000</td>
-
-</tr>
-
-<tr>
-
-<td>debian-tor</td>
-
-<td>121</td>
-
-<td>133</td>
-
-</tr>
-
-</tbody>
-
-</table>
+| **User**       	| **UID**  	| **GID (primary)** 	|
+|------------	|------	|------	|
+| simo       	| 1000 	| 1000 	|
+| debian-tor 	| 121  	| 133  	|
 
 Their counterparts in the group file:
 
