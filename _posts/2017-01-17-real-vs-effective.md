@@ -18,8 +18,8 @@ debian-tor:x:121:133::/var/lib/tor:/bin/false
 
 We can infer:
 
-| **User**       	| **UID**  	| **GID (primary)** 	|
-|------------	|------	|------	|
+| **User**    | **UID**  	| **GID (primary)** 	|
+|------------	|----------	|-------------------	|
 | simo       	| 1000 	| 1000 	|
 | debian-tor 	| 121  	| 133  	|
 

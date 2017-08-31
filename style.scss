@@ -276,6 +276,10 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+
+  table, th, td {
+   border: 1px solid black;
+}
 }
 
 .wrapper-footer {
