@@ -42,7 +42,14 @@ That’s why I’m in love with [computer security](https://en.wikipedia.org/wik
 * [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_%28computer_security%29)
 
 
-### Personal Interests
-I love:
+### Personal interests
+I love, in random order:
+* sport
 * [reading](https://packmad.github.io/books/)
-* cats & dogs
+* motorbike rides
+* yoga/meditation
+* [CTF competitions](https://ctftime.org/ctf-wtf/)
+* animals, especially cats & dogs
+* poker and chess (very low skilled)
+
+... and for me only one life isn't enough, I want to do a lot more!!!
