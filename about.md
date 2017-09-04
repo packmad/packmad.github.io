@@ -20,7 +20,7 @@ I was a pro fighter until 2015, [K1](https://en.wikipedia.org/wiki/K-1) was my s
 
 ### Study / Work
 
-I worked as a system/network administrator until 2010.
+I worked as system/network administrator until 2010.
 
 After I've set aside enough money, I started again to study and I achieved the Master of Science in Computer Science (cum laude) at the [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) in 2015.
 
