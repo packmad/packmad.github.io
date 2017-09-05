@@ -9,7 +9,7 @@ Hi! In real life I’m Simone Aonzo, online I'm "packmad" (in the past "six110")
 
 I’m [Italian](https://en.wikipedia.org/wiki/Italy). I was born in 1988, in [Savona](https://en.wikipedia.org/wiki/Savona) where I still live today.
 
-But I studied and lived in [Genova](https://en.wikipedia.org/wiki/Genoa) and I consider it one of the most magical [(video)](https://www.youtube.com/watch?v=Hg3Fq85azck) cities I've ever seen.
+But I studied and lived in [Genova](https://en.wikipedia.org/wiki/Genoa) for a while and I consider it one of the most magical [(video)](https://www.youtube.com/watch?v=Hg3Fq85azck) cities I've ever seen.
 
 So, I have always woken up with the scent of the sea!
 
@@ -20,14 +20,17 @@ I was a pro fighter until 2015, [K1](https://en.wikipedia.org/wiki/K-1) was my s
 
 ### Study / Work
 
-I worked as a system/network administrator until 2010.
+I've been working since I was a kid: waiter, lifeguard, bricklayer and salesperson!
+
+Lastly I worked as system/network administrator until 2010.
 
 After I've set aside enough money, I started again to study and I achieved the Master of Science in Computer Science (cum laude) at the [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) in 2015.
 
 After graduation I worked as a security software developer at [Talos](https://talos-sec.com/) until 2017.
 
-But I realized that it wasn’t my way.
-So I started a PhD in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and I've realized that my future will be in academic research.
+But it wasn’t my way. I’d prefer to create something new rather than use something already existing.
+
+So I started a PhD in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and (finally) I've realized that my future will be in academic research.
 
 > Listen, Morty, I hate to break it to you, but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
 > [[Rick and Morty]](https://en.wikipedia.org/wiki/Rick_and_Morty)
