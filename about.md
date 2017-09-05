@@ -13,7 +13,7 @@ But I studied and lived in [Genova](https://en.wikipedia.org/wiki/Genoa) and I c
 
 So, I have always woken up with the scent of the sea!
 
-I’m proudly father of two twins, Francesco and Alessandro, they were born in 2010. I discovered a new world through their eyes.
+I’m proudly father of twins, Francesco and Alessandro, they were born in 2010. I discovered a new world through their eyes.
 
 I was a pro fighter until 2015, [K1](https://en.wikipedia.org/wiki/K-1) was my specialty. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/). But now I train my shots only for tasting the Italian food without getting fatter 🙂
 
@@ -32,10 +32,10 @@ So I started a PhD in Computer Science and Systems Engineering of the [Departmen
 > Listen, Morty, I hate to break it to you, but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
 > [[Rick and Morty]](https://en.wikipedia.org/wiki/Rick_and_Morty)
 
-But I always was a terrible student. Why?
+But I have always been a terrible student. Why?
 Because I love break rules, I search the shortest path, I do not accept what I see and I want to do also whatever I love giving my best effort.
 
-That’s why I’m in love with [computer security](https://en.wikipedia.org/wiki/Computer_security). More precisely my research topic are:
+That’s why I’m in love with [computer security](https://en.wikipedia.org/wiki/Computer_security). More precisely my research topics are:
 * [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
 * [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 * [Binary/Malware Analysis](https://en.wikipedia.org/wiki/Malware_analysis)
