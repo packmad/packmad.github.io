@@ -30,7 +30,7 @@ After graduation I worked as a security software developer at [Talos](https://ta
 
 But it wasn’t my way. I’d prefer to create something new rather than use something already existing.
 
-So I started a PhD in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and (finally) I've realized that my future will be in academic research.
+So I started a PhD ([my webpage](http://csec.it/people/simone_aonzo/)) in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and (finally) I've realized that my future will be in academic research.
 
 > Listen, Morty, I hate to break it to you, but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
 > [[Rick and Morty]](https://en.wikipedia.org/wiki/Rick_and_Morty)
