@@ -7,10 +7,10 @@ tags: [bit, byte]
 8\. Yes, sometimes... whereas the bit is [well defined](https://en.wikipedia.org/wiki/Bit):
 
 *   A bit is the basic unit of information in computing and digital communications.
-*   A bit can have only one of two values, and may therefore be physically implemented with a two-state device.
+*   A bit can have only one of two values, and may, therefore, be physically implemented with a two-state device.
 *   The values of a bit are most commonly represented as either a 0 or 1.
 
-Instead the size of one Byte, as described [in the Jargon file](http://catb.org/~esr/jargon/html/B/byte.html), is architecture-dependent and, more precisely, is a unit of memory or data equal to the amount used to represent one character. In the same link, or in [the wiki page](https://en.wikipedia.org/wiki/Byte), is also explained that there were architecture with 6, 7, or 9 bits... or they operated on bit fields [from 1 to 36](https://en.wikipedia.org/wiki/PDP-10)!
+Instead, the size of one Byte, as described [in the Jargon file](http://catb.org/~esr/jargon/html/B/byte.html), is architecture-dependent and, more precisely, is a unit of memory or data equal to the amount used to represent one character. In the same link, or in [the wiki page](https://en.wikipedia.org/wiki/Byte), is also explained that there was architecture with 6, 7, or 9 bits... or they operated on bit fields [from 1 to 36](https://en.wikipedia.org/wiki/PDP-10)!
 
 Obviously is extremely convenient that, from the architecture/hardware prospective, a Byte is the smallest addressable unit of memory: for this reason every operation that involves data exchange between the CPU and the RAM is made with Byte sizes or its multiples (Word, Double Word and Quad Word).
 
