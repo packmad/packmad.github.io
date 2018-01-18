@@ -26,7 +26,7 @@ Start your app!
 Let's get back to AS. Browse the class/method that you want to debug using the left panel and set the breakpoints.
 
 * Tools -> Android -> Android Device Monitor
-  * If you see anything in the  Android Device Monitor panel:
+  * If you see nothing in the  Android Device Monitor panel:
     * Window -> Rest perspective
 
 In the **Devices** panel you will see a three column matrix:
