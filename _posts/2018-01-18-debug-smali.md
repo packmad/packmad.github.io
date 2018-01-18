@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Debug Android smali code (without modifying the app)
+title: Debug Android smali code (without repackaging)
 tags: [android, debug, smali]
 ---
 
