@@ -57,3 +57,9 @@ max user processes              (-u) 7345
 virtual memory          (kbytes, -v) unlimited
 file locks                      (-x) unlimited
 ```
+
+Memento gdb core dump analysis:
+```
+gdb <executable> <core_dump_file>
+``` 
+
