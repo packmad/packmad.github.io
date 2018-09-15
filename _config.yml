@@ -17,7 +17,7 @@ avatar: https://avatars0.githubusercontent.com/u/5713555
 footer-links:
   dribbble:
   email: simone.aonzo@gmail.com
-  facebook: simone.aonzo
+  #facebook: simone.aonzo
   flickr:
   github: packmad
   instagram: simone.aonzo
@@ -27,7 +27,7 @@ footer-links:
   twitter: packm4d
   stackoverflow: users/6489438/simone-aonzo
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: +SimoneAonzo1988
+  #googleplus: +SimoneAonzo1988
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
