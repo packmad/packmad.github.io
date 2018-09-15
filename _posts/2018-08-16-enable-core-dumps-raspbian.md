@@ -63,3 +63,12 @@ Memento gdb core dump analysis:
 gdb <executable> <core_dump_file>
 ``` 
 
+
+Install gdb 8.1
+```
+apt install texinfo python2.7-dev python3-dev
+wget http://ftp.gnu.org/gnu/gdb/gdb-8.1.1.tar.xz
+tar xf gdb-8.1.1.tar.xz
+cd gdb-8.1/
+./configure --with-python && make && make install
+```
