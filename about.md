@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is just my personal website, just-for-fun, if are intrested in: 
+This is my just-for-fun personal website, if are intrested in: 
 
 * [my academic work](http://csec.it/people/simone_aonzo/)
 * [my CTF team](https://zenhack.it/)
