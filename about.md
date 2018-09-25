@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
+This is just my personal website, just-for-fun, if are intrested in: 
+
+* [my academic work](http://csec.it/people/simone_aonzo/)
+* [my CTF team](https://zenhack.it/)
+
+
+
 ### Personal life
 Hi! In real life I’m Simone Aonzo, online I'm "packmad" (in the past "six110").
 
@@ -30,19 +37,13 @@ After graduation, I worked as a security software developer at [Talos](https://t
 
 But it wasn’t my way. I’d prefer to create something new rather than use something already existing.
 
-So I started a Ph.D. ([my webpage](http://csec.it/people/simone_aonzo/)) in Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and (finally) I've realized that my future will be in academic research.
+So I started a Ph.D. Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and (finally) I've realized that my future will be in academic research.
 
 > Listen, Morty, I hate to break it to you, but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
 > [[Rick and Morty]](https://en.wikipedia.org/wiki/Rick_and_Morty)
 
 But I have always been a terrible student. Why?
-Because I love to break rules, I search the shortest path, I do not accept what I see and I want to do also whatever I love, always giving my best effort.
-
-That’s why I’m in love with [computer security](https://en.wikipedia.org/wiki/Computer_security). More precisely my research topics are:
-* [Mobile Security](https://en.wikipedia.org/wiki/Mobile_security)
-* [Reverse Engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
-* [Binary/Malware Analysis](https://en.wikipedia.org/wiki/Malware_analysis)
-* [Exploitation Techniques](https://en.wikipedia.org/wiki/Exploit_%28computer_security%29)
+Because I love to break rules, I search the shortest path, I do not accept what I see and I want to do whatever I love, always giving my best effort.
 
 
 ### Personal interests
@@ -51,8 +52,8 @@ Every week I dedicate at least one hour to all my favorite activities (and somet
 * cooking
 * motorbike rides
 * yoga/meditation
-* [CTF competitions](https://ctftime.org/ctf-wtf/)
 * poker and chess (very low skilled)
 * sport: boxing, running, swimming
+* [CTF competitions](https://ctftime.org/ctf-wtf/)
 
 ... but for me only one life isn't enough, I want to do a lot more!!!
