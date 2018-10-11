@@ -22,7 +22,7 @@ $ find ~/android-sdk-linux/ -type f -name "gdbserver"
 ~/android-sdk-linux/ndk-bundle/prebuilt/android-x86_64/gdbserver/gdbserver
 ```
 
-Vopy the gdb server executable (w.r.t. your target architecture) in a temporary folder and give to it full permissions:
+Copy the gdb server executable (w.r.t. your target architecture) in a temporary folder and give to it full permissions:
 
 
 ```

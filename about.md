@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is my just-for-fun personal website, if are intrested in: 
+This is my just-for-fun personal website, maybe you are intrested in: 
 
 * [my academic work](http://csec.it/people/simone_aonzo/)
 * [my CTF team](https://zenhack.it/)
-
 
 
 ### Personal life
