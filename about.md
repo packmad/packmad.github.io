@@ -4,14 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is my just-for-fun personal website, maybe you are intrested in: 
-
-* [my academic work](http://csec.it/people/simone_aonzo/)
-* [my CTF team](https://zenhack.it/)
-
-
 ### Personal life
-Hi! In real life I’m Simone Aonzo, online I'm "packmad" (in the past "six110").
+Hi! In real life my name is Simone Aonzo, online I'm "packmad".
 
 I’m [Italian](https://en.wikipedia.org/wiki/Italy). I was born in 1988, in [Savona](https://en.wikipedia.org/wiki/Savona) where I still live today.
 
