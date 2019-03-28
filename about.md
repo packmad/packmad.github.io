@@ -15,7 +15,7 @@ So, I have always woken up with the scent of the sea!
 
 I’m (proudly) father of twins, Francesco and Alessandro, they were born in 2010. I discovered a new world through their eyes.
 
-I was a pro fighter until 2015, [K1](https://en.wikipedia.org/wiki/K-1) was my specialty. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/). But now I train my shots only for tasting the Italian food without getting fatter 🙂
+I was a pro [K1](https://en.wikipedia.org/wiki/K-1) fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/). But now I train my shots only for tasting the Italian food without getting fatter 🙂
 
 
 ### Study / Work
