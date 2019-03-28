@@ -15,7 +15,7 @@ So, I have always woken up with the scent of the sea!
 
 I’m (proudly) father of twins, Francesco and Alessandro, they were born in 2010. I discovered a new world through their eyes.
 
-I was a pro [K1](https://en.wikipedia.org/wiki/K-1) fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/). But now I train my shots only for tasting the Italian food without getting fatter 🙂
+I was a pro [K1](https://en.wikipedia.org/wiki/K-1) fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/) ([video](https://youtu.be/9Yob7mGum9g)). But now I train my shots only for tasting the Italian food without getting fatter 🙂
 
 
 ### Study / Work
@@ -26,7 +26,7 @@ Lastly, I worked as system/network administrator until 2010.
 
 After I've set aside enough money, I started again to study, and I achieved the Master of Science in Computer Science (cum laude) at the [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) in 2015.
 
-After graduation, I worked as a security software developer at [Talos](https://talos-sec.com/) until 2017.
+After graduation, I worked as an Android Reverse Engineer at [Talos](https://talos-sec.com/) until 2017.
 
 But it wasn’t my way. I’d prefer to create something new rather than use something already existing.
 
