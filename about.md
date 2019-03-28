@@ -9,7 +9,7 @@ Hi! In real life my name is Simone Aonzo, online I'm "packmad".
 
 I’m [Italian](https://en.wikipedia.org/wiki/Italy). I was born in 1988, in [Savona](https://en.wikipedia.org/wiki/Savona) where I still live today.
 
-But I studied, lived and now I work in [Genova](https://en.wikipedia.org/wiki/Genoa). I consider it one of the most magical [(video)](https://www.youtube.com/watch?v=Hg3Fq85azck) cities I've ever seen.
+But I studied, lived and now I work in [Genova](https://en.wikipedia.org/wiki/Genoa). I consider it one of the most magical ([video](https://www.youtube.com/watch?v=Hg3Fq85azck)) cities I've ever seen.
 
 So, I have always woken up with the scent of the sea!
 
