@@ -4,8 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-Throughout my life I read several books (unlucky not as much as I wanted to)
-and I want to share with you the ones that, in some way, changed me deeply.
+Throughout my life, I read several books (unlucky not as much as I wanted to) and I want to share with you the ones that, in some way, changed me profoundly.
 
 Then, my list in random order is:
 * [Gödel, Escher, Bach](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567): An Eternal Golden Braid
@@ -18,5 +17,6 @@ Then, my list in random order is:
 * [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
 * [Stumbling on Happiness](https://www.amazon.com/Stumbling-Happiness-Daniel-Gilbert/dp/1400077427)
 * [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/1400069289/): Why We Do What We Do in Life and Business
+* [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095): A Brief History of Humankind
 
-I love talking about books so, if you have some suggestion, write me!
+I love discussing about books so, if you have some suggestion, write me!
