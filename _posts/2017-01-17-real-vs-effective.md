@@ -63,9 +63,10 @@ int main()
 
 Usually the various ID have the same value when you run a program, but sometimes happens that a computer system needs to run programs with temporarily elevated privileges in order to perform a specific task.
 
-The <span style="color: #0000ff;">**setuid** </span>(set user id) is a permission bit, that **allows the users to exec a program with the permissions of its owner.** The <span style="color: #0000ff;">**setgid** </span>(set group id) is a bit that **allows the user to exec a program with the permissions of the group owner.** <span style="text-decoration: underline;">
+The **setuid** (set user id) is a permission bit, that **allows the users to exec a program with the permissions of its owner.** The **setgid** (set group id) is a bit that **allows the user to exec a program with the permissions of the group owner.**
 
-The s(u|g)id bit on executables only changes the E(U|G)ID</span> the executable will run as, and not the real(U|G)ID. Get my hands dirty for an example:
+The s(u|g)id bit on executables only changes the E(U|G)ID the executable will run as, and not the real(U|G)ID. 
+Let's take a closer look:
 
 ```
 $ gcc -Wall ids.c -o example
@@ -90,7 +91,10 @@ rgid=1000 egid=0
 1.  I compiled the example;
 2.  I changed the owner and the group from "simo" to "root";
 3.  I ran the program and I got the same ids;
-4.  I set the setuid and the setgid, pay attention to the `s` here `-rwsrws--x 1 root root 8816 gen 17 16:29 example`
+4.  I set the setuid and the setgid, pay attention to the `s` here 
+```
+-rwsrws--x 1 root root 8816 gen 17 16:29 example
+```
 5.  Ids changes accordingly!
 
 **Hint**: in addition to the restriction on s(u|g)id interpreted scripts (any executable text file beginning with "#!"), some shells (like bash) as an extra safety measure will set the EUID back to the RUID; in this case, you will need to wrap the call to the script within a C program and setuid(...) before executing the script.
