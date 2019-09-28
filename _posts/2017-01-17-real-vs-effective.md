@@ -97,4 +97,4 @@ rgid=1000 egid=0
 ```
 5.  Ids changes accordingly!
 
-**Hint**: in addition to the restriction on s(u|g)id interpreted scripts (any executable text file beginning with "#!"), some shells (like bash) as an extra safety measure will set the EUID back to the RUID; in this case, you will need to wrap the call to the script within a C program and setuid(...) before executing the script.
+**Hint**: in addition to the restriction on `s(u|g)id` interpreted scripts (any executable text file beginning with "#!"), some shells (like bash) as an extra safety measure will set the EUID back to the RUID; in this case, you will need to wrap the call to the script within a C program and setuid(...) before executing the script.
