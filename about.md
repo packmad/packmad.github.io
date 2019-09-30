@@ -46,7 +46,7 @@ Every week I dedicate at least one hour to all my favorite activities (and somet
 * motorbike rides
 * yoga/meditation
 * poker and chess (very low skilled)
-* sport: boxing, running, swimming
+* sport: boxing, crossfit, running, swimming
 * [CTF competitions](https://ctftime.org/ctf-wtf/)
 
 ... but for me only one life isn't enough, I want to do a lot more!!!
