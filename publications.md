@@ -8,6 +8,8 @@ For an updated list, see my [Google Scholar](https://scholar.google.fr/citations
 
 + A. Mantovani, **S. Aonzo**, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti. "[Prevalence and impact of low-entropy packing schemes in the malware ecosystem](/papers/Prevalence_and_Impact_of_Low-Entropy_Packing_Schemes_in_the_Malware_Ecosystem.pdf)", in Proc. of the Network and Distributed System Security Symposium ([NDSS 2020](https://www.ndss-symposium.org/ndss2020/accepted-papers/)), 23-26 February 2020, San Diego, CA, USA.
 
++ **S. Aonzo**, G. C. Georgiu, L. Verderame, A. Merlo. "[Obfuscapk: An open-source black-box obfuscation tool for Android apps](https://www.sciencedirect.com/science/article/pii/S2352711019302791)", SoftwareX, Volume 11, 2020, 100403, ISSN 2352-7110.
+
 + D. Caputo, L. Verderame, **S. Aonzo**, A. Merlo. "[Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps](/papers/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf)", in IFIP Annual Conference on Data and Applications Security and Privacy 2019 ([DBSec'19](https://dbsec2019.cse.sc.edu/accepted_papers.html)) (pp. 121-139). Springer, Cham.
 
 + **S. Aonzo**, A. Merlo, G. Tavella, Y. Fratantonio. "[Phishing Attacks on Modern Android](/papers/Phishing_Attacks_on_Modern_Android.pdf)", in Proc. of the 25th ACM Conference on Computer and Communications Security ([CCS 2018](https://www.sigsac.org/ccs/CCS2018/accepted/papers/)), Toronto, Canada. [[video](https://www.youtube.com/watch?v=J1tx4OZ_wMc)] [[slides](https://docs.google.com/presentation/d/1YCQaVhk8Oww9liguba4wiRyGiC8SUlA-Fte7i8F0BTY)]
