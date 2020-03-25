@@ -4,7 +4,6 @@ title: Piratage
 permalink: /piratage/
 ---
 
-# Piratestuff
 
 ## ENG
 + [ebook, paper] [Library Genesis](http://gen.lib.rus.ec/)
