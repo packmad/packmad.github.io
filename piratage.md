@@ -4,6 +4,8 @@ title: Piratage
 permalink: /piratage/
 ---
 
++ [qBittorrent](https://www.qbittorrent.org/)
+
 
 ## ENG
 + [ebook, paper] [Library Genesis](http://gen.lib.rus.ec/)
