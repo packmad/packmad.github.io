@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Piratage
+title: Piracy
 permalink: /piratage/
 ---
 
-+ [torrent,client](https://www.qbittorrent.org/)
-+ [torrent,search](https://thepiratebay.org/)
-
++ [torrent,client][qbittorrent](https://www.qbittorrent.org/)
++ [torrent,search][The Pirate Bay](https://thepiratebay.org/)
++ [list][Reddit-Piracy-megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
 
 
 ## ENG
