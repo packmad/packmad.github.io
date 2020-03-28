@@ -1,10 +1,9 @@
 ---
-layout: page
 title: Books
 permalink: /books/
 ---
 
-Throughout my life, I read several books (unlucky not as much as I wanted to) and I want to share with you the ones that, in some way, changed me profoundly.
+I read several books throughout my life (unlucky not as much as I wanted to) and I want to share with you the ones that, in some way, changed me profoundly.
 
 Then, my list in random order is:
 * [Gödel, Escher, Bach](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567): An Eternal Golden Braid

@@ -1,9 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "CV"
+    url: /assets/pdf/aonzo_simone_cv.pdf
+  - title: "Press"
+    url: /press/
+  - title: "Publications"
+    url: /publications/
   - title: "About"
     url: /about/
