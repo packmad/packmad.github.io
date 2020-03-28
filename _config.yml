@@ -13,16 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Simone Aonzo | Packmad
-email: simone.aonzo@gmail.com
+locale: "en-US"
+title: "Simone Aonzo a.k.a. Packmad"
+email: "simone.aonzo@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+url: "https://simoneaonzo.it"
 twitter_username: packm4d
 github_username: pacmad
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: air
+
 
 # Build settings
 markdown: kramdown
@@ -61,31 +63,30 @@ author:
   name   : "Simone Aonzo"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. - Malware hunter - Postdoctoral Researcher - CTF player"
+  email: "simone.aonzo@gmail.com"
   links:
+    -label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://simoneaonzo.it"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://simoneaonzo.it"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/packm4d"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/packmad"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/simone-aonzo-290b05180/"
+    
+google_site_verification:
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-105635510-2"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
