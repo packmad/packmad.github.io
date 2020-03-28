@@ -65,9 +65,6 @@ author:
   bio    : "Ph.D. - Malware hunter - Postdoctoral Researcher - CTF player"
   email: "simone.aonzo@gmail.com"
   links:
-    -label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://simoneaonzo.it"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://simoneaonzo.it"
