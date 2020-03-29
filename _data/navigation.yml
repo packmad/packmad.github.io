@@ -3,8 +3,6 @@ main:
     url: /posts/
   - title: "CV"
     url: /assets/pdf/aonzo_simone_cv.pdf
-  - title: "Press"
-    url: /press/
   - title: "Publications"
     url: /publications/
   - title: "About"
