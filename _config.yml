@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Simone Aonzo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. - Malware hunter - Postdoctoral Researcher - CTF player"
+  bio    : "Ph.D. - Malware hunter - CTF player - Postdoctoral Researcher"
   email: "simone.aonzo@gmail.com"
   links:
     - label: "Website"
