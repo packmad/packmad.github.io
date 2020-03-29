@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://simoneaonzo.it"
 twitter_username: packm4d
 github_username: pacmad
-minimal_mistakes_skin: air
+minimal_mistakes_skin: dark
 
 
 # Build settings
