@@ -1,8 +1,6 @@
 ---
 title: "Debug Android native code with gdb"
 date: 2017-08-31 T15:34:30-04:00
-categories:
-  - blog
 tags:
   - android
   - gdb

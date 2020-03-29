@@ -1,5 +1,5 @@
 ---
-title: Real (U|G)ID vs Effective (U|G)ID
+title: "Real (U|G)ID vs Effective (U|G)ID"
 tags: [uid, gid, real, effective]
 ---
 ### Background
