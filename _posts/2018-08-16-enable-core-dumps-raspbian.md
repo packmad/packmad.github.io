@@ -1,6 +1,6 @@
 ---
-title: Enable core dumps (for every user) in Raspbian|Debian 
-tags: [core dumps, raspbian, debian]
+title: Enable core dumps (for every user) in Raspbian 
+tags: [core dumps, raspbian]
 ---
 
 Create file:

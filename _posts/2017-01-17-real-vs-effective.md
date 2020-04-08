@@ -1,17 +1,19 @@
 ---
-title: "Real (U|G)ID vs Effective (U|G)ID"
-tags: [uid, gid, real, effective]
+title: "Real vs Effective UID/GUID"
+tags: [linux, permissions]
 ---
+
 ### Background
 
-In *nix systems the **User Id Number** (<span style="color: #0000ff;">UID</span>) and the **Group Id Number** (<span style="color: #0000ff;">GID</span>) are integers used for identifying uniquely users and groups. Take a look at [_/etc/passwd_](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/) and [_/etc/group_](https://www.cyberciti.biz/faq/understanding-etcgroup-file/) files (follow the links for more details about these files):
+In *nix systems the **User Id Number** (UID) and the **Group Id Number** (GID) are integers used for identifying uniquely users and groups. 
+Take a look at [_/etc/passwd_](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/) and [_/etc/group_](https://www.cyberciti.biz/faq/understanding-etcgroup-file/) files (follow the links for more details about these files):
 
 
 ```
 simo@xps:~$ cat /etc/passwd
 root:x:0:0:root:/root:/bin/bash
 [...]
-simo:x:1000:1000:simo,,,:/home/simo:/bin/bas\h
+simo:x:1000:1000:simo,,,:/home/simo:/bin/bash
 debian-tor:x:121:133::/var/lib/tor:/bin/false
 ```
 
@@ -19,6 +21,7 @@ We can infer:
 
 | **User**    | **UID**  	| **GID (primary)** 	|
 |------------	|----------	|-------------------	|
+| root       	| 0 	| 0 	|
 | simo       	| 1000 	| 1000 	|
 | debian-tor 	| 121  	| 133  	|
 
@@ -39,9 +42,9 @@ Moreover you can see that the user _"simo"_ belong also to the _"vboxusers"_ gro
 
 Every running process has at least 4 ID numbers associated with it:
 
-*   the <span style="color: #000000;">**Real UID** (<span style="color: #0000ff;">RUID</span>) identifies the user who launched the process.</span>
-*   <span style="color: #000000;">the **Real GID** (<span style="color: #0000ff;">RGID</span>) identifies the primary group of the user that launched the process.</span>
-*   <span style="color: #000000;">the **Effective UID** (<span style="color: #0000ff;">EUID</span>) and the **Effective GID** (<span style="color: #0000ff;">EGID</span>) are used to determine what resources the process can access.</span>
+*   the **Real UID** (RUID) identifies the user who launched the process.
+*   the **Real GID** (RGID) identifies the primary group of the user that launched the process.
+*   the **Effective UID** (EUID) and the **Effective GID** (EGID) are used to determine what resources the process can access.
 
 These information can be found programmatically:
 
@@ -60,7 +63,7 @@ int main()
 }
 ```
 
-Usually the various ID have the same value when you run a program, but sometimes happens that a computer system needs to run programs with temporarily elevated privileges in order to perform a specific task.
+Usually the IDs have the same value when you run a program, but sometimes happens that an operating system needs to run programs with temporarily elevated privileges in order to perform a specific task.
 
 The **setuid** (set user id) is a permission bit, that **allows the users to exec a program with the permissions of its owner.** The **setgid** (set group id) is a bit that **allows the user to exec a program with the permissions of the group owner.**
 
