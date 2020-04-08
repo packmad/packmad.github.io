@@ -1,5 +1,5 @@
 ---
-title: The importance of Data Execution Prevention in malware analysis
+title: Dear Windows Defender, please tell me where I can drop my malicious code
 tags: [malware]
 ---
 

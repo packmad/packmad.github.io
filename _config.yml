@@ -45,7 +45,7 @@ include:
 #   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
-#   - vendor/cach:e/
+#   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
 
