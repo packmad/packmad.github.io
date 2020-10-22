@@ -29,3 +29,8 @@ permalink: /publications/
 + [Research Gate](https://www.researchgate.net/profile/Simone_Aonzo)
 
 + [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57195635255)
+
+
+## Ph.D. Thesis in Computer Science and Systems Engineering
+
++ "[Novel Attacks and Defenses in the Userland of Android](https://iris.unige.it/retrieve/handle/11567/990743/385940/phdunige_3338799.pdf)", 2019.
