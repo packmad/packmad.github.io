@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Simone Aonzo, PhD"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "- Postdoctoral Researcher<br/>- Malware Hunter<br/>- Mormanti Evangelist"
+  bio    : "\- Postdoctoral Researcher<br/>- Malware Hunter<br/>- Mormanti Evangelist"
   email: "simone.aonzo@gmail.com"
   links:
     - label: "Twitter"
