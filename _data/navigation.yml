@@ -5,5 +5,7 @@ main:
     url: /assets/pdf/aonzo_simone_cv.pdf
   - title: "Publications"
     url: /publications/
+  - title: "Courses"
+    url: /courses/
   - title: "About"
     url: /about/

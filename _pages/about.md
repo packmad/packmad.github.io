@@ -4,12 +4,14 @@ title: "About"
 ---
 
 ### Personal life
-Hi! In real life, my name is Simone Aonzo, online I'm "packmad".
+Hi! In real life, my name is Simone Aonzo, online I'm known as "packmad".
 
 I’m [Italian](https://en.wikipedia.org/wiki/Italy). I was born in 1988 in [Savona](https://en.wikipedia.org/wiki/Savona) where I still live today.
 
 But I studied, lived, and worked in [Genova](https://en.wikipedia.org/wiki/Genoa). 
-I consider it one of the most magical ([video](https://www.youtube.com/watch?v=Hg3Fq85azck)) cities I've ever seen.
+I have mixed feelings about Genova, but I consider it one of the most magical ([video](https://www.youtube.com/watch?v=Hg3Fq85azck)) cities I've ever seen.
+
+At the moment, I live in [Nice](https://en.wikipedia.org/wiki/Nice), [France](https://en.wikipedia.org/wiki/France), and work at Eurecom in the [Sophia Antipolis](https://en.wikipedia.org/wiki/Sophia_Antipolis) technology park.
 
 So, I have always woken up with the scent of the sea!
 
@@ -27,7 +29,7 @@ After I've set aside enough money, I started again to study, and I achieved the 
 Then, I worked for one year as an Android Reverse Engineer at [Talos](https://talos-sec.com/) until 2017.
 But it wasn't my way. I felt the need for a new challenge.
 
-So, I started a Ph.D. Computer Science and Systems Engineering of the [Department of Computer Science, Bioengineering, Robotics and Systems Engineering](http://www.dibris.unige.it/) at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and (finally) I've realized that my future will be in academic research.
+So, I started a Ph.D. Computer Science and Systems Engineering at [University of Genoa](https://en.wikipedia.org/wiki/University_of_Genoa) and (finally) I've realized that my future will be in academic research.
 
 > Listen, Morty, I hate to break it to you, but what people call "love" is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.
 > [[Rick and Morty]](https://en.wikipedia.org/wiki/Rick_and_Morty)

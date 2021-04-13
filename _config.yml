@@ -59,14 +59,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Simone Aonzo"
+  name   : "Simone Aonzo, PhD"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. - Malware hunter - CTF player - Postdoctoral Researcher"
+  bio    : "- Postdoctoral Researcher<br/>- Malware Hunter<br/>- Mormanti Evangelist"
   email: "simone.aonzo@gmail.com"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://simoneaonzo.it"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/packm4d"
