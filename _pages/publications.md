@@ -17,13 +17,13 @@ In Proc. of the ISOC Network and Distributed System Security (NDSS), 2020
 + **Obfuscapk: An open-source black-box obfuscation tool for Android apps** \
 *S. Aonzo*, G. C. Georgiu, L. Verderame, A. Merlo \
 SoftwareX, Volume 11, 2020
-  + [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352711019302791) [[BibTeX]](/assets/bib/aonzo2020obfuscapk.bib) [[Slides]]()
+  + [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352711019302791) [[BibTeX]](/assets/bib/aonzo2020obfuscapk.bib)
   + Website: [https://github.com/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)
 
 + **Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps** \
 D. Caputo, L. Verderame, *S. Aonzo*, A. Merlo \
 In Proc. of the IFIP Conference on Data and Applications Security and Privacy (DBSec), 2019 
-  + [[PDF]](/assets/pdf/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf) [[BibTeX]](/assets/bib/caputo2019droids.bib) [[Slides]]()
+  + [[PDF]](/assets/pdf/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf) [[BibTeX]](/assets/bib/caputo2019droids.bib) [[Slides]](https://docs.google.com/presentation/d/1iSoeMAFL4JTrZlUDtDoZPoC-UJ7-aYsanFvc3MTCexc/edit?usp=sharing)
 
 + **Phishing Attacks on Modern Android**
 *S. Aonzo*, A. Merlo, G. Tavella, Y. Fratantonio
@@ -36,7 +36,7 @@ In Proc. of the ACM Conference on Computer and Communications Security (CCS), 20
 + **Low-Resource Footprint, Data-driven Malware Detection on Android** \
 *S. Aonzo*, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri \
 IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), Vol. PP, no. 99, pp. 1-1. \
-  + [[PDF]](/assets/pdf/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf) [[BibTeX]](/assets/bib/aonzo2017low.bib) [[Slides]]()
+  + [[PDF]](/assets/pdf/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf) [[BibTeX]](/assets/bib/aonzo2017low.bib)
 
 + ** RmPerm: a Tool for Android Permissions Removal ** \
 *S. Aonzo*, G. Lagorio, A. Merlo \
@@ -57,4 +57,4 @@ In Proc. of the Conference on Security and Cryptography (SECRYPT), 2017 \
 ## Ph.D. Thesis in Computer Science and Systems Engineering
 
 + **Novel Attacks and Defenses in the Userland of Android**, 2019
-  + [[PDF]](https://iris.unige.it/retrieve/handle/11567/990743/385940/phdunige_3338799.pdf)
+  + [[PDF]](https://iris.unige.it/retrieve/handle/11567/990743/385940/phdunige_3338799.pdf) [[Slides]](https://docs.google.com/presentation/d/1wOjezg7cu_-SUrCUZhoCsCgiG0jvFWg-TjR8dWqNJ-M/edit?usp=sharing)
