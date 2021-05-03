@@ -18,3 +18,7 @@ permalink: /piratage/
 ## ITA
 + [torrent,film] [Il Corsaro Nero](https://ilcorsaronero.link/)
 + [ebook] [Libri](https://libri.tel/)
+
+
+## ENG/ITA
++ [manga] [NineManga](https://ninemanga.com/)
