@@ -38,7 +38,7 @@ In Proc. of the ACM Conference on Computer and Communications Security (CCS), 20
 IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), Vol. PP, no. 99, pp. 1-1. \
   + [[PDF]](/assets/pdf/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf) [[BibTeX]](/assets/bib/aonzo2017low.bib)
 
-+ ** RmPerm: a Tool for Android Permissions Removal ** \
++ **RmPerm: a Tool for Android Permissions Removal** \
 *S. Aonzo*, G. Lagorio, A. Merlo \
 In Proc. of the Conference on Security and Cryptography (SECRYPT), 2017 \
   + [[PDF]](/assets/pdf/RmPerm_a_Tool_for_Android_Permissions_Removal.pdf) [[BibTeX]](/assets/bib/aonzo2017rmperm.bib)
