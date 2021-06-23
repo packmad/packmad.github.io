@@ -6,7 +6,7 @@ layout: single
 + **Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization** \
 A. Possemato, *S. Aonzo*, D. Balzarotti, Y. Fratantonio \
 In Proc. of the IEEE Symposium on Security and Privacy (S&P), 2021
-  + [[PDF]](/assets/pdf/2021_oakland_customizations.pdf) [[BibTeX]](/assets/bib/possemato2021trust.bib) [[Slides]]()
+  + [[PDF]](/assets/pdf/2021_oakland_customizations.pdf) [[BibTeX]](/assets/bib/possemato2021trust.bib) [[Slides]]() [[Video](https://www.youtube.com/watch?v=Giy7JZRbADc)]
 
 + **Prevalence and impact of low-entropy packing schemes in the malware ecosystem** \
   A. Mantovani, *S. Aonzo*, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti \
