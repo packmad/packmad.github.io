@@ -3,10 +3,16 @@ title: Publications
 permalink: /publications/
 layout: single
 ---
+
++ **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
+A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
+In Proc. of the 32nd USENIX Security Symposium (USENIX-Security), 2022.
+  + [[PDF]](/assets/pdf/) [[BibTeX]](/assets/bib/mantovani2022remind.bib)
+
 + **Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization** \
 A. Possemato, *S. Aonzo*, D. Balzarotti, Y. Fratantonio \
-In Proc. of the IEEE Symposium on Security and Privacy (S&P), 2021
-  + [[PDF]](/assets/pdf/2021_oakland_customizations.pdf) [[BibTeX]](/assets/bib/possemato2021trust.bib) [[Slides]]() [[Video](https://www.youtube.com/watch?v=Giy7JZRbADc)]
+In Proc. of the 42nd IEEE Symposium on Security and Privacy (S&P), 2021
+  + [[PDF]](/assets/pdf/2021_oakland_customizations.pdf) [[BibTeX]](/assets/bib/possemato2021trust.bib) [[Video](https://www.youtube.com/watch?v=Giy7JZRbADc)]
 
 + **Prevalence and impact of low-entropy packing schemes in the malware ecosystem** \
   A. Mantovani, *S. Aonzo*, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti \
