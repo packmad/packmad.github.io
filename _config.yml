@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "en-US"
-title: "Simone Aonzo a.k.a. Packmad"
+title: "Simone Aonzo aka Packmad"
 email: "simone.aonzo@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal (unpretentious) website of Simone Aonzo. 
-  Here you will find stuff about: cybersecurity, hacking, malware, android...
+  Here you will find stuff about: cybersecurity, hacking, malware, Android...
 url: "https://simoneaonzo.it"
 twitter_username: packm4d
-github_username: pacmad
+github_username: packmad
 minimal_mistakes_skin: air
 
 
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Simone Aonzo, PhD"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "~ Malware Hunter<br/>~Research Engineer<br/>~ Coffee fueled paper writer"
+  bio    : "~ Malware Hunter<br/>~ Research Engineer<br/>~ Coffee fueled paper writer"
   email: "simone.aonzo@gmail.com"
   links:
     - label: "Twitter"
