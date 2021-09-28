@@ -6,7 +6,7 @@ layout: single
 
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
-In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022.
+In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022
   + [[PDF]](/assets/pdf/RE-Mind_a_First_Look_Inside_the_Mind_of_a_Reverse_Engineer.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib)
 
 + **Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization** \
