@@ -12,7 +12,7 @@ As a dataset, we considered all domain names from all mapping we extracted from 
 Note that since they are extracted from password managers, it is very likely that these domain names host at least one page with a login form, thus making them relevant for this observation. 
 In our article published in 2018, we were able to query 8,821 unique websites, but unfortunately, I did not save the complete list with all the domains, so I repeated the measurement on these.
 
-Today, I have successfully queried **5,506** unique websites for the `/.well-known/assetlinks.json` file. Namely, I have excluded all those who returned a status code other than 404 or 200. 
+Today (2022-01-13), I have successfully queried **5,506** unique websites for the `/.well-known/assetlinks.json` file. Namely, I have excluded all those who returned a status code other than 404 or 200. 
 I found that **24%** (1,330/5,506) of them host an associated DAL file, and **23%** (1,265/5,506) specify an Android app in accordance with Google documentation. 
 Four years ago, such percentages were 8% and 2%, respectively.
 
