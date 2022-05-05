@@ -36,7 +36,10 @@ So, I started a PhD Computer Science and Systems Engineering at [University of G
 
 I've finished my PhD in January 2020, and it has been a challenging journey!
 
-And? At the moment, I'm a Postdoctoral Researcher at [Eurecom](https://www.eurecom.fr/en/people/aonzo-simone) under the supervision of [Davide Balzarotti](http://s3.eurecom.fr/~balzarot/).
+After that I worked as a Postdoctoral Researcher and then as Research Engineer at [Eurecom](https://www.eurecom.fr/en/people/aonzo-simone) under the supervision of [Davide Balzarotti](http://s3.eurecom.fr/~balzarot/).
+
+Finally, it seems that after many adventures I have found my way: in April 2022, I was hired as an assistant professor at Eurecom, and I plan to continue my career here for several years!
+
 
 
 ### Personal interests

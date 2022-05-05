@@ -61,9 +61,12 @@ plugins:
 author:
   name   : "Simone Aonzo, PhD"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "~ Malware Hunter<br/>~ Research Engineer<br/>~ Coffee fueled paper writer"
+  bio    : "~ Malware Hunter<br/>~ Assistant Professor<br/>~ Coffee fueled paper writer"
   email: "simone.aonzo@gmail.com"
   links:
+    - label: "Work"
+      icon: "fas fa-briefcase"
+      url: "https://www.eurecom.fr/en/people/aonzo-simone"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/packm4d"
