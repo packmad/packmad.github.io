@@ -9,7 +9,9 @@ permalink: /piratage/
 
 
 ## ENG
-+ [ebook, paper] [Library Genesis](http://gen.lib.rus.ec/)
++ [ebook, paper] Library Genesis
+  + [mirror1](http://libgen.rs/)
+  + [mirror2](https://libgen.fun/)
 + [paper] [Sci-Hub](https://sci-hub.se/)
 + [audiobook] [audiobookbay.net](http://audiobookbay.net/)
 + [torrent,film] [YTS](https://yts.mx/)
