@@ -10,6 +10,6 @@ We -- the [s3 group](https://s3.eurecom.fr/) -- have several open positions to b
 
 I have made a couple of [slides](https://docs.google.com/presentation/d/1gx7d78Ww-43yHISqrBN-dKIYrmuSviBoyQBdZXj1e8M/edit?usp=sharing) about my perspective on the Ph.D.
 
-Finally, the [slides](https://docs.google.com/presentation/d/) on who we are and what we do in our research group.
+Finally, the [slides](https://docs.google.com/presentation/d/1EJh5LfeYEGgBTI0Y8YTYCvmnFlXhKKxrsHXpPoOBRyI/edit?usp=sharing) on who we are and what we do in our research group.
 
 You can write me at the email address: simone.aonzo(AT)eurecom.fr
