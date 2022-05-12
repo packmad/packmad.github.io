@@ -45,12 +45,10 @@ Finally, it seems that after many adventures I have found my way: in April 2022,
 ### Personal interests
 I have a lot of hobbies, depending on the season (and sometimes I sleep):
 
-* [reading](https://simoneaonzo.it/books/)
-* cooking
+* sports: boxing, CrossFit, running, swimming, padel, kayaking
+* [CTF competitions](https://ctftime.org/ctf-wtf/)
 * motorbike rides
 * yoga/meditation
-* [CTF competitions](https://ctftime.org/ctf-wtf/)
-* poker and chess (very noob level)
-* sport: boxing, CrossFit, running, swimming
-
-... but for me, only one life isn't enough; I want to do a lot more!!!
+* [reading](https://www.goodreads.com/user/show/81659096-simone-aonzo)
+* cooking
+* [chess](https://www.chess.com/member/packmad)
