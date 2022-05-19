@@ -45,10 +45,10 @@ Finally, it seems that after many adventures I have found my way: in April 2022,
 ### Personal interests
 I have a lot of hobbies, depending on the season (and sometimes I sleep):
 
-* sports: boxing, CrossFit, running, swimming, padel, kayaking
+* Sports: boxing, CrossFit, running, swimming, padel, kayaking
 * [CTF competitions](https://ctftime.org/ctf-wtf/)
-* motorbike rides
-* yoga/meditation
-* [reading](https://goodreads.com/simone_aonzo)
-* cooking
-* [chess](https://www.chess.com/member/packmad)
+* Motorbike rides
+* Yoga/Meditation
+* [Reading books](https://www.goodreads.com/review/list/81659096?shelf=read)
+* Cooking
+* [Chess](https://www.chess.com/member/packmad)
