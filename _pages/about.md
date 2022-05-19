@@ -49,6 +49,6 @@ I have a lot of hobbies, depending on the season (and sometimes I sleep):
 * [CTF competitions](https://ctftime.org/ctf-wtf/)
 * motorbike rides
 * yoga/meditation
-* [reading](https://www.goodreads.com/user/show/81659096-simone-aonzo)
+* [reading](https://goodreads.com/simone_aonzo)
 * cooking
 * [chess](https://www.chess.com/member/packmad)
