@@ -7,7 +7,7 @@ layout: single
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
 In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022
-  + [[PDF]](/assets/pdf/RE-Mind_a_First_Look_Inside_the_Mind_of_a_Reverse_Engineer.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib)
+  + [[PDF]](/assets/pdf/RE-Mind_a_First_Look_Inside_the_Mind_of_a_Reverse_Engineer.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib) [[Slides]](https://docs.google.com/presentation/d/1oJWV0oNEKpdzyCCvK2NbRl0LPvMiJHhZOfETeIXu0wA/edit?usp=sharing)
 
 + **Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization** \
 A. Possemato, *S. Aonzo*, D. Balzarotti, Y. Fratantonio \
@@ -17,7 +17,7 @@ In Proc. of the 42nd IEEE Symposium on Security and Privacy (S&P), 2021
 + **Prevalence and impact of low-entropy packing schemes in the malware ecosystem** \
   A. Mantovani, *S. Aonzo*, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti \
 In Proc. of the ISOC Network and Distributed System Security (NDSS), 2020
-  + [[PDF]](/assets/pdf/Prevalence_and_Impact_of_Low-Entropy_Packing_Schemes_in_the_Malware_Ecosystem.pdf) [[BibTeX]](/assets/bib/mantovani2020prevalence.bib) [[Slides]]()
+  + [[PDF]](/assets/pdf/Prevalence_and_Impact_of_Low-Entropy_Packing_Schemes_in_the_Malware_Ecosystem.pdf) [[BibTeX]](/assets/bib/mantovani2020prevalence.bib) 
   + Press: [Talosintelligence Blog](https://blog.talosintelligence.com/2020/02/new-research-paper-prevalence-and.html)
 
 + **Obfuscapk: An open-source black-box obfuscation tool for Android apps** \
