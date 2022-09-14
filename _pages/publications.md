@@ -4,6 +4,19 @@ permalink: /publications/
 layout: single
 ---
 
+## My profiles
+
++ [Google Scholar](https://scholar.google.fr/citations?user=h1RL7s4AAAAJ)
+
++ [Research Gate](https://www.researchgate.net/profile/Simone_Aonzo)
+
++ [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57195635255)
+
++ [ORCID](https://orcid.org/0000-0001-9547-3502)
+
+
+## List of Publications
+
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
 In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022
@@ -49,15 +62,6 @@ IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/Rece
 In Proc. of the Conference on Security and Cryptography (SECRYPT), 2017 \
   + [[PDF]](/assets/pdf/RmPerm_a_Tool_for_Android_Permissions_Removal.pdf) [[BibTeX]](/assets/bib/aonzo2017rmperm.bib)
   + Website: [https://github.com/RmPerm](https://github.com/packmad/RmPerm)
-
-
-## My profiles
-
-+ [Google Scholar](https://scholar.google.fr/citations?user=h1RL7s4AAAAJ)
-
-+ [Research Gate](https://www.researchgate.net/profile/Simone_Aonzo)
-
-+ [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57195635255)
 
 
 ## Ph.D. Thesis in Computer Science and Systems Engineering
