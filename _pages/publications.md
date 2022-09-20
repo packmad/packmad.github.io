@@ -17,6 +17,11 @@ layout: single
 
 ## List of Publications
 
++ **Humans vs. Machines in Malware Classification** \
+*S. Aonzo*, Y. Han, A. Mantovani, D. Balzarotti \
+In Proc. of the 32st USENIX Security Symposium (USENIX-Security), 2023
+  + [[PDF]](/assets/pdf/Humans_vs._Machines_in_Malware_Classification.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/)
+
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
 In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022
