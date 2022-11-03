@@ -25,7 +25,7 @@ In Proc. of the 32st USENIX Security Symposium (USENIX-Security), 2023
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
 In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022
-  + [[PDF]](/assets/pdf/RE-Mind_a_First_Look_Inside_the_Mind_of_a_Reverse_Engineer.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib) [[Slides]](https://docs.google.com/presentation/d/1oJWV0oNEKpdzyCCvK2NbRl0LPvMiJHhZOfETeIXu0wA/edit?usp=sharing)
+  + [[PDF]](/assets/pdf/RE-Mind_a_First_Look_Inside_the_Mind_of_a_Reverse_Engineer.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib) [[Slides]](https://docs.google.com/presentation/d/1oJWV0oNEKpdzyCCvK2NbRl0LPvMiJHhZOfETeIXu0wA/edit?usp=sharing) [[Video](https://www.youtube.com/watch?v=n7mVyF5hplI)]
 
 + **Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization** \
 A. Possemato, *S. Aonzo*, D. Balzarotti, Y. Fratantonio \
