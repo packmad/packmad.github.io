@@ -9,7 +9,7 @@ Hi! In real life, my name is Simone Aonzo, online I'm known as "packmad".
 I’m [Italian](https://en.wikipedia.org/wiki/Italy). I was born in 1988 in [Savona](https://en.wikipedia.org/wiki/Savona).
 
 But I studied, lived, and worked for many years in [Genova](https://en.wikipedia.org/wiki/Genoa). 
-I have mixed feelings about Genova, but I consider it one of the most magical ([video](https://www.youtube.com/watch?v=Hg3Fq85azck)) cities I've ever seen.
+I have mixed feelings about Genova, but I consider it one of the most magical cities I've ever seen [[video](https://www.youtube.com/watch?v=Hg3Fq85azck)].
 
 At the moment, I live in [Nice](https://en.wikipedia.org/wiki/Nice), [France](https://en.wikipedia.org/wiki/France), and work at [Eurecom](https://www.eurecom.fr/) in the [Sophia Antipolis](https://en.wikipedia.org/wiki/Sophia_Antipolis) technology park.
 
@@ -17,7 +17,7 @@ So, I always woke up with the scent of the sea!
 
 I'm (proudly) father of twins, Francesco and Alessandro, they were born in 2010. I discovered a new world through their eyes.
 
-I was a pro [K1](https://en.wikipedia.org/wiki/K-1) fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/) [[Video]](https://youtu.be/9Yob7mGum9g). 
+I was a pro [K1](https://en.wikipedia.org/wiki/K-1) fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/) [[video]](https://youtu.be/9Yob7mGum9g). 
 I am still training, but just for eating a lot of Italian food without getting fatter 🙂
 
 
@@ -40,15 +40,22 @@ After that I worked as a Postdoctoral Researcher and then as Research Engineer a
 
 Finally, it seems that after many adventures I have found my way: in April 2022, I was hired as an assistant professor at Eurecom, and I plan to continue my career here for several years!
 
+My main line of research is Security & Privacy. 
+More precisely, over the years I have devoted myself to working on (in chronological order): 
+1. Mobile|Android system security
+2. Malware Analysis (Android and Windows)
+3. Humans in the Cybersecurity Loop
+4. Perimeter security
 
 
 ### Personal interests
 I have a lot of hobbies, depending on the season (and sometimes I sleep):
 
-* Sports: boxing, CrossFit, running, swimming, padel, kayaking
+* Sports: boxing, running, swimming, skiing, kayaking
+* Motorbike rides (Ducati Monster 695)
 * [CTF competitions](https://ctftime.org/ctf-wtf/)
-* Motorbike rides
 * Yoga/Meditation
+* [Watching Movies](https://www.imdb.com/user/ur39105709/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail)
 * [Reading books](https://www.goodreads.com/review/list/81659096?shelf=read)
 * Cooking
-* [Chess](https://www.chess.com/member/packmad)
+* [Chess](https://www.chess.com/member/NZASMN88)
