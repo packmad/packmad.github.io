@@ -42,7 +42,7 @@ Finally, it seems that after many adventures I have found my way: in April 2022,
 
 My main line of research is Security & Privacy. 
 More precisely, over the years I have devoted myself to working on (in chronological order): 
-1. Mobile|Android system security
+1. Mobile (Android) system security
 2. Malware Analysis (Android and Windows)
 3. Humans in the Cybersecurity Loop
 4. Perimeter security
