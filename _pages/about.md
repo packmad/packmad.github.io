@@ -6,10 +6,10 @@ title: "About"
 ### Personal life
 Hi! In real life, my name is Simone Aonzo, online I'm known as "packmad".
 
-I’m [Italian](https://en.wikipedia.org/wiki/Italy). I was born in 1988 in [Savona](https://en.wikipedia.org/wiki/Savona).
+I’m [Italian](https://en.wikipedia.org/wiki/Italy). I was born in 1988 in [Savona](https://en.wikipedia.org/wiki/Savona) [[video](https://www.youtube.com/watch?v=_-Gz_NGS5x4)].
 
 But I studied, lived, and worked for many years in [Genova](https://en.wikipedia.org/wiki/Genoa). 
-I have mixed feelings about Genova, but I consider it one of the most magical cities I've ever seen [[video](https://www.youtube.com/watch?v=Hg3Fq85azck)].
+I have mixed feelings about Genova, but I consider it one of the most magical cities I've ever seen [[video](https://www.youtube.com/watch?v=ntJI7-nO98c)].
 
 At the moment, I live in [Nice](https://en.wikipedia.org/wiki/Nice), [France](https://en.wikipedia.org/wiki/France), and work at [Eurecom](https://www.eurecom.fr/) in the [Sophia Antipolis](https://en.wikipedia.org/wiki/Sophia_Antipolis) technology park.
 
