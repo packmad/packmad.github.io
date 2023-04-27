@@ -17,10 +17,18 @@ layout: single
 
 ## List of Publications
 
++ **Android, notify me when it is time to go phishing** \
+A. Ruggia, A. Possemato, A. Merlo, D. Nisi, and *S. Aonzo* \
+In Proc. of the 8th IEEE European Symposium on Security and Privacy (EUROS&P), 2023
+
 + **Humans vs. Machines in Malware Classification** \
 *S. Aonzo*, Y. Han, A. Mantovani, D. Balzarotti \
 In Proc. of the 32st USENIX Security Symposium (USENIX-Security), 2023
   + [[PDF]](/assets/pdf/Humans_vs._Machines_in_Malware_Classification.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/)
+
++ **The dark side of native code on android** \
+A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti, 2022 \
++ [[PDF]](https://www.techrxiv.org/articles/preprint/The_Dark_Side_of_Native_Code_on_Android/21220247/1) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
 
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
