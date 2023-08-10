@@ -17,27 +17,35 @@ layout: single
 
 ## List of Publications
 
++ **Decoding the Secrets of Machine Learning in Malware Classification: A Deep Dive into Datasets, Feature Extraction, and Model Performance** \
+S. Dambra, Y. Han, *S. Aonzo*, P. Kotzias, A. Vitale, J. Caballero, D. Balzarotti, L. Bilge \
+In Proc. of the ACM Conference on Computer and Communications Security (CCS), 2023
+  + [[PDF]](https://arxiv.org/pdf/2307.14657)
+
+
 + **Android, notify me when it is time to go phishing** \
 A. Ruggia, A. Possemato, A. Merlo, D. Nisi, and *S. Aonzo* \
-In Proc. of the 8th IEEE European Symposium on Security and Privacy (EUROS&P), 2023
+In Proc. of the 8th IEEE European Symposium on Security and Privacy (EUROS&P), 2023 
+  + [[PDF]](https://www.s3.eurecom.fr/docs/eurosp23_inotify.pdf) [[BibTeX]](https://www.s3.eurecom.fr/bibs/eurosp23_inotify.bib)
+  + Press: [s3blogpost](https://www.s3.eurecom.fr/post/2023/03/06/android-notify-me-when-it-is-time-to-go-phishing/), [EurecomMedium](https://eurecom-blog.medium.com/a-new-vulnerability-is-identified-in-the-android-system-by-eurecom-researchers-a97643ed8180), [WiredIT](https://www.wired.it/article/android-vulnerabilita-genova/)
 
 + **Humans vs. Machines in Malware Classification** \
 *S. Aonzo*, Y. Han, A. Mantovani, D. Balzarotti \
-In Proc. of the 32st USENIX Security Symposium (USENIX-Security), 2023
-  + [[PDF]](/assets/pdf/Humans_vs._Machines_in_Malware_Classification.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/)
+In Proc. of the 32st USENIX Security Symposium (USENIX-Security), 2023 
+  + [[PDF]](/assets/pdf/Humans_vs._Machines_in_Malware_Classification.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/d/1pArIOq3WgUUusjDtFK9ntaGbeiUUbzmCuHxEe2lTaG4/edit?usp=sharing)
 
 + **The dark side of native code on android** \
-A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti, 2022 \
-+ [[PDF]](https://www.techrxiv.org/articles/preprint/The_Dark_Side_of_Native_Code_on_Android/21220247/1) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
+A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti, 2022 
+  + [[PDF]](https://www.techrxiv.org/articles/preprint/The_Dark_Side_of_Native_Code_on_Android/21220247/1) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
 
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
-In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022
+In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022 
   + [[PDF]](/assets/pdf/RE-Mind_a_First_Look_Inside_the_Mind_of_a_Reverse_Engineer.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib) [[Slides]](https://docs.google.com/presentation/d/1oJWV0oNEKpdzyCCvK2NbRl0LPvMiJHhZOfETeIXu0wA/edit?usp=sharing) [[Video](https://www.youtube.com/watch?v=n7mVyF5hplI)]
 
 + **Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization** \
 A. Possemato, *S. Aonzo*, D. Balzarotti, Y. Fratantonio \
-In Proc. of the 42nd IEEE Symposium on Security and Privacy (S&P), 2021
+In Proc. of the 42nd IEEE Symposium on Security and Privacy (S&P), 2021 
   + [[PDF]](/assets/pdf/2021_oakland_customizations.pdf) [[BibTeX]](/assets/bib/possemato2021trust.bib) [[Video](https://www.youtube.com/watch?v=Giy7JZRbADc)]
 
 + **Prevalence and impact of low-entropy packing schemes in the malware ecosystem** \
