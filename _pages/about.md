@@ -17,7 +17,7 @@ So, I always woke up with the scent of the sea!
 
 I'm (proudly) father of twins, Francesco and Alessandro, they were born in 2010. I discovered a new world through their eyes.
 
-I was a pro [K1](https://en.wikipedia.org/wiki/K-1) fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/) [[video]](https://youtu.be/9Yob7mGum9g). 
+I was a pro [K1](https://en.wikipedia.org/wiki/K-1) kickboxing fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/) [[video]](https://youtu.be/9Yob7mGum9g). 
 I am still training, but just for eating a lot of Italian food without getting fatter 🙂
 
 
@@ -58,4 +58,4 @@ I have a lot of hobbies, depending on the season (and sometimes I sleep):
 * [Watching Movies](https://www.imdb.com/user/ur39105709/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail)
 * [Reading books](https://www.goodreads.com/review/list/81659096?shelf=read)
 * Cooking
-* [Chess](https://www.chess.com/member/NZASMN88)
+* [Chess](https://www.chess.com/member/simone4onzo)
