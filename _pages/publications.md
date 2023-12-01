@@ -17,6 +17,11 @@ layout: single
 
 ## List of Publications
 
++ **Unmasking the Veiled: A Comprehensive Analysis of Android Evasive Malware** \
+A. Ruggia, D. Nisi, S. Dambra, A. Merlo, D. Balzarotti, *S. Aonzo* \
+In Proc. of the ACM Asia conference on Computer and Communications Security (ASIACCS)
+  + [[PDF]]() [[BibTeX]]()
+
 + **Decoding the Secrets of Machine Learning in Malware Classification: A Deep Dive into Datasets, Feature Extraction, and Model Performance** \
 S. Dambra, Y. Han, *S. Aonzo*, P. Kotzias, A. Vitale, J. Caballero, D. Balzarotti, L. Bilge \
 In Proc. of the ACM Conference on Computer and Communications Security (CCS), 2023
@@ -32,7 +37,7 @@ In Proc. of the 8th IEEE European Symposium on Security and Privacy (EUROS&P), 2
 + **Humans vs. Machines in Malware Classification** \
 *S. Aonzo*, Y. Han, A. Mantovani, D. Balzarotti \
 In Proc. of the 32st USENIX Security Symposium (USENIX-Security), 2023 
-  + [[PDF]](/assets/pdf/Humans_vs._Machines_in_Malware_Classification.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/d/1pArIOq3WgUUusjDtFK9ntaGbeiUUbzmCuHxEe2lTaG4/edit?usp=sharing)
+  + [[PDF]](/assets/pdf/Humans_vs._Machines_in_Malware_Classification.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/d/1pArIOq3WgUUusjDtFK9ntaGbeiUUbzmCuHxEe2lTaG4/edit?usp=sharing) [[Video]](https://youtu.be/atK2jQvebqE?si=tC6am18IxoyZSBpj)
 
 + **The dark side of native code on android** \
 A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti, 2022 
