@@ -6,7 +6,7 @@ author_profile: true
 
 Hello and welcome!
 
-My name is Simone Aonzo (online I am also known as `packm(a|4)d`).
+My name is Simone Aonzo, but online I am also known as `packm(a|4)d`.
 
 I am an assistant professor at the [Eurecom](https://www.eurecom.fr/) graduate school and research center, located in the [Sophia Antipolis](https://en.wikipedia.org/wiki/Sophia_Antipolis) technology park on the French Riviera.
 
