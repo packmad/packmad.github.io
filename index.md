@@ -35,7 +35,7 @@ I have mixed feelings about this city, but it is undoubtedly one of the most cha
 
 I'm a father of twins, Francesco and Alessandro, born in 2010. I have discovered a new world through their eyes. In my opinion, having children is the most difficult, but also, without a doubt, the most rewarding experience.
 
-I was a pro [K1](https://en.wikipedia.org/wiki/K-1) kickboxing fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/) [[video](https://youtu.be/9Yob7mGum9g)]. 
+I was a pro kickboxing [K-1](https://en.wikipedia.org/wiki/Kickboxing#Oriental_rules) fighter until 2015. I won two belts: amateur [European Champion](http://www.ivg.it/2015/06/loanesi-alle-stelle-weekend-di-successi-per-il-polizzano-perlungher/) and professional [Italian Champion](http://www.ivg.it/2015/12/loano-ospita-linternational-fight-show/) [[video](https://youtu.be/9Yob7mGum9g)]. 
 I am still training, I have no intention to stop, but only to eat Italian food without getting fat! 🙂
 
 I have a lot of hobbies, depending on the season (and sometimes I sleep):
