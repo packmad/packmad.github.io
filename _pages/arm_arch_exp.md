@@ -3,9 +3,9 @@ title: ARM - from Architecture to eXploitation
 permalink: /arm_from_architecture_to_exploitation/
 ---
 
-## Course Description
-TODO
+This course is no longer taught and does not cover 64bit ARM. 
 
+There are only videos of the first 4 lessons, the last 3 were never recorded.
 
 ## YouTube Videos:
 

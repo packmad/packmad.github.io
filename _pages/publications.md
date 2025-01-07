@@ -7,25 +7,31 @@ layout: single
 ## My profiles
 
 + [Google Scholar](https://scholar.google.fr/citations?user=h1RL7s4AAAAJ)
-
 + [Research Gate](https://www.researchgate.net/profile/Simone_Aonzo)
-
 + [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57195635255)
-
 + [ORCID](https://orcid.org/0000-0001-9547-3502)
 
 
 ## List of Publications
++ **The dark side of native code on android** \
+A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti \
+ACM Transactions on Privacy and Security (TOPS), 2025
+  + [[PDF]](https://www.techrxiv.org/articles/preprint/The_Dark_Side_of_Native_Code_on_Android/21220247/1) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
+
++ **How to Train your Antivirus: RL-based Hardening through the Problem Space** \
+I. Tsingenopoulos, J. Cortellazzi, B. Bošanský, *S. Aonzo*, D. Preuveneers, W. Joosen, F. Pierazzi, L. Cavallaro \
+In Proc. of the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2024
+  + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3678890.3678912) [[BibTeX]]()
 
 + **Unmasking the Veiled: A Comprehensive Analysis of Android Evasive Malware** \
 A. Ruggia, D. Nisi, S. Dambra, A. Merlo, D. Balzarotti, *S. Aonzo* \
-In Proc. of the ACM Asia conference on Computer and Communications Security (ASIACCS)
-  + [[PDF]]() [[BibTeX]]()
+In Proc. of the ACM Asia conference on Computer and Communications Security (ASIACCS), 2024
+  + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3634737.3637658) [[BibTeX]](/assets/bib/ruggia2024unmasking.bib)
 
 + **Decoding the Secrets of Machine Learning in Malware Classification: A Deep Dive into Datasets, Feature Extraction, and Model Performance** \
 S. Dambra, Y. Han, *S. Aonzo*, P. Kotzias, A. Vitale, J. Caballero, D. Balzarotti, L. Bilge \
 In Proc. of the ACM Conference on Computer and Communications Security (CCS), 2023
-  + [[PDF]](https://arxiv.org/pdf/2307.14657)
+  + [[PDF]](https://arxiv.org/pdf/2307.14657) [[BibTeX]](/assets/bib/dambra2023decoding.bib) [[Slides]](https://docs.google.com/presentation/d/1fUGDNj3O8ZzE8b-UhVjh12nhcZWQfcZBVezz8yPIOVU/edit?usp=sharing)
 
 
 + **Android, notify me when it is time to go phishing** \
@@ -37,21 +43,22 @@ In Proc. of the 8th IEEE European Symposium on Security and Privacy (EUROS&P), 2
 + **Humans vs. Machines in Malware Classification** \
 *S. Aonzo*, Y. Han, A. Mantovani, D. Balzarotti \
 In Proc. of the 32st USENIX Security Symposium (USENIX-Security), 2023 
-  + [[PDF]](/assets/pdf/Humans_vs._Machines_in_Malware_Classification.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/d/1pArIOq3WgUUusjDtFK9ntaGbeiUUbzmCuHxEe2lTaG4/edit?usp=sharing) [[Video]](https://youtu.be/atK2jQvebqE?si=tC6am18IxoyZSBpj)
-
-+ **The dark side of native code on android** \
-A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti, 2022 
-  + [[PDF]](https://www.techrxiv.org/articles/preprint/The_Dark_Side_of_Native_Code_on_Android/21220247/1) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
+  + [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-aonzo.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/d/1pArIOq3WgUUusjDtFK9ntaGbeiUUbzmCuHxEe2lTaG4/edit?usp=sharing) [[Video]](https://youtu.be/atK2jQvebqE?si=tC6am18IxoyZSBpj)
 
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
 In Proc. of the 31st USENIX Security Symposium (USENIX-Security), 2022 
-  + [[PDF]](/assets/pdf/RE-Mind_a_First_Look_Inside_the_Mind_of_a_Reverse_Engineer.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib) [[Slides]](https://docs.google.com/presentation/d/1oJWV0oNEKpdzyCCvK2NbRl0LPvMiJHhZOfETeIXu0wA/edit?usp=sharing) [[Video](https://www.youtube.com/watch?v=n7mVyF5hplI)]
+  + [[PDF]](https://www.usenix.org/system/files/sec22-mantovani.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib) [[Slides]](https://docs.google.com/presentation/d/1oJWV0oNEKpdzyCCvK2NbRl0LPvMiJHhZOfETeIXu0wA/edit?usp=sharing) [[Video]](https://www.youtube.com/watch?v=n7mVyF5hplI)
 
 + **Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization** \
 A. Possemato, *S. Aonzo*, D. Balzarotti, Y. Fratantonio \
 In Proc. of the 42nd IEEE Symposium on Security and Privacy (S&P), 2021 
-  + [[PDF]](/assets/pdf/2021_oakland_customizations.pdf) [[BibTeX]](/assets/bib/possemato2021trust.bib) [[Video](https://www.youtube.com/watch?v=Giy7JZRbADc)]
+  + [[PDF]](/assets/pdf/2021_oakland_customizations.pdf) [[BibTeX]](/assets/bib/possemato2021trust.bib) [[Video]](https://www.youtube.com/watch?v=Giy7JZRbADc)
+
++ **Longitudinal study of the prevalence of malware evasive techniques** \
+L. Maffia, D. Nisi, P. Kotzias, G. Lagorio, *S. Aonzo*, D Balzarotti \
+arXiv preprint, 2021
+  + [[PDF]](https://arxiv.org/pdf/2112.11289) 
 
 + **Prevalence and impact of low-entropy packing schemes in the malware ecosystem** \
   A. Mantovani, *S. Aonzo*, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti \
@@ -73,19 +80,19 @@ In Proc. of the IFIP Conference on Data and Applications Security and Privacy (D
 + **Phishing Attacks on Modern Android**
 *S. Aonzo*, A. Merlo, G. Tavella, Y. Fratantonio
 In Proc. of the ACM Conference on Computer and Communications Security (CCS), 2018
-  + [[PDF]](/assets/pdf/Phishing_Attacks_on_Modern_Android.pdf) [[BibTeX]](/assets/bib/aonzo2018phishing.bib) [[Video](https://www.youtube.com/watch?v=J1tx4OZ_wMc)] [[Slides](https://docs.google.com/presentation/d/1YCQaVhk8Oww9liguba4wiRyGiC8SUlA-Fte7i8F0BTY)]
+  + [[PDF]](/assets/pdf/Phishing_Attacks_on_Modern_Android.pdf) [[BibTeX]](/assets/bib/aonzo2018phishing.bib) [[Video]](https://www.youtube.com/watch?v=J1tx4OZ_wMc) [[Slides]](https://docs.google.com/presentation/d/1YCQaVhk8Oww9liguba4wiRyGiC8SUlA-Fte7i8F0BTY)
   + Website: [http://www.s3.eurecom.fr/projects/modern-android-phishing/](http://www.s3.eurecom.fr/projects/modern-android-phishing/)
   + Press: [SlashDot](https://slashdot.org/story/18/09/26/1534203/password-managers-can-be-tricked-into-believing-that-malicious-android-apps-are-legitimate), [The Register](https://www.theregister.co.uk/2018/09/26/password_manager_theft/), [Threat Post](https://threatpost.com/android-app-verification-issues-pave-way-for-phishing-attacks/137774/), [ZDNet](https://www.zdnet.com/article/password-managers-can-be-tricked-into-believing-that-malicious-android-apps-are-legitimate/), [Duo Security](https://duo.com/decipher/researchers-identify-new-phishing-tactics-on-android-devices), [Naked Security](https://nakedsecurity.sophos.com/2018/09/28/mobile-password-managers-vulnerable-to-phishing-apps/), [Keeper Security](https://keepersecurity.com/blog/2018/09/26/response-to-phishing-attacks-on-android-password-managers/), [LastPass](https://blog.lastpass.com/2019/02/lastpass-bugcrowd-update-2h-2018.html/), [Corriere della Sera [ITA]](https://www.corriere.it/tecnologia/18_settembre_26/minaccia-phishing-android-mobile-password-manager-rischio-10bfb0dc-c0ca-11e8-8c2f-234b69fe8a3d.shtml)
 
 
 + **Low-Resource Footprint, Data-driven Malware Detection on Android** \
 *S. Aonzo*, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri \
-IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), Vol. PP, no. 99, pp. 1-1. \
+IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), 2015 
   + [[PDF]](/assets/pdf/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf) [[BibTeX]](/assets/bib/aonzo2017low.bib)
 
 + **RmPerm: a Tool for Android Permissions Removal** \
 *S. Aonzo*, G. Lagorio, A. Merlo \
-In Proc. of the Conference on Security and Cryptography (SECRYPT), 2017 \
+In Proc. of the Conference on Security and Cryptography (SECRYPT), 2017 
   + [[PDF]](/assets/pdf/RmPerm_a_Tool_for_Android_Permissions_Removal.pdf) [[BibTeX]](/assets/bib/aonzo2017rmperm.bib)
   + Website: [https://github.com/RmPerm](https://github.com/packmad/RmPerm)
 
