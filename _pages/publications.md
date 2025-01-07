@@ -13,7 +13,7 @@ layout: single
 
 
 ## List of Publications
-+ **The dark side of native code on android** \
++ **The Dark Side of Native Code on Android** \
 A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti \
 ACM Transactions on Privacy and Security (TOPS), 2025
   + [[PDF]](https://www.techrxiv.org/articles/preprint/The_Dark_Side_of_Native_Code_on_Android/21220247/1) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
@@ -21,7 +21,7 @@ ACM Transactions on Privacy and Security (TOPS), 2025
 + **How to Train your Antivirus: RL-based Hardening through the Problem Space** \
 I. Tsingenopoulos, J. Cortellazzi, B. Bošanský, *S. Aonzo*, D. Preuveneers, W. Joosen, F. Pierazzi, L. Cavallaro \
 In Proc. of the 27th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2024
-  + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3678890.3678912) [[BibTeX]]()
+  + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3678890.3678912) [[BibTeX]](/assets/bib/tsingenopoulos2024train.bib)
 
 + **Unmasking the Veiled: A Comprehensive Analysis of Android Evasive Malware** \
 A. Ruggia, D. Nisi, S. Dambra, A. Merlo, D. Balzarotti, *S. Aonzo* \
