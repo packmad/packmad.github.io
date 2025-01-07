@@ -58,7 +58,7 @@ In Proc. of the 42nd IEEE Symposium on Security and Privacy (S&P), 2021
 + **Longitudinal study of the prevalence of malware evasive techniques** \
 L. Maffia, D. Nisi, P. Kotzias, G. Lagorio, *S. Aonzo*, D Balzarotti \
 arXiv preprint, 2021
-  + [[PDF]](https://arxiv.org/pdf/2112.11289) 
+  + [[PDF]](https://arxiv.org/pdf/2112.11289) [[BibTeX]](/assets/bib/maffia2021longitudinal.bib) 
 
 + **Prevalence and impact of low-entropy packing schemes in the malware ecosystem** \
   A. Mantovani, *S. Aonzo*, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti \
