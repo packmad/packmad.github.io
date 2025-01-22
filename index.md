@@ -14,6 +14,7 @@ I work in the Software and System Security ([S3](https://www.s3.eurecom.fr/)) Gr
 + Mobile (Android) system security
 + Malware analysis (Android and Windows)
 + Human studies in security processes
++ (Applied) Artificial Intelligence
 + Phishing
 
 My publications are listed [here](/publications/).
