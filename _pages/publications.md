@@ -16,7 +16,7 @@ layout: single
 + **The Dark Side of Native Code on Android** \
 A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti \
 ACM Transactions on Privacy and Security (TOPS), 2025
-  + [[PDF]](https://www.techrxiv.org/articles/preprint/The_Dark_Side_of_Native_Code_on_Android/21220247/1) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
+  + [[PDF]](https://dl.acm.org/doi/10.1145/3712308) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
 
 + **How to Train your Antivirus: RL-based Hardening through the Problem Space** \
 I. Tsingenopoulos, J. Cortellazzi, B. Bošanský, *S. Aonzo*, D. Preuveneers, W. Joosen, F. Pierazzi, L. Cavallaro \
