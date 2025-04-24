@@ -14,8 +14,9 @@ layout: single
 
 ## List of Publications
 
-+ **A Closer Look At Modern Evasive Phishing Emails** \
-E. Boulila, M. Dacier, S. P. V. Peroumal, N. Veys, *S. Aonzo*
++ **A Closer Look at Modern Evasive Phishing Emails** \
+E. Boulila, M. Dacier, S. P. V. Peroumal, N. Veys, *S. Aonzo* \
+In Proc. of the 27th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025 
   + [[PDF]](/assets/pdf/boulila2025closer.pdf) [[BibTeX]](/assets/bib/boulila2025closer.bib)
 
 + **The Dark Side of Native Code on Android** \
