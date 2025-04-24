@@ -1,4 +1,4 @@
----
+a---
 title: Publications
 permalink: /publications/
 layout: single
@@ -13,8 +13,13 @@ layout: single
 
 
 ## List of Publications
+
++ **A Closer Look At Modern Evasive Phishing Emails** \
+E. Boulila, M. Dacier, S. P. V. Peroumal, N. Veys, *S. Aonzo*
+  + [[PDF]](/assets/pdf/boulila2025closer.pdf) [[BibTeX]](/assets/bib/boulila2025closer.bib)
+
 + **The Dark Side of Native Code on Android** \
-A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, and D. Balzarotti \
+A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, D. Balzarotti \
 ACM Transactions on Privacy and Security (TOPS), 2025
   + [[PDF]](https://dl.acm.org/doi/10.1145/3712308) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
 
@@ -31,7 +36,7 @@ In Proc. of the ACM Asia conference on Computer and Communications Security (ASI
 + **Decoding the Secrets of Machine Learning in Malware Classification: A Deep Dive into Datasets, Feature Extraction, and Model Performance** \
 S. Dambra, Y. Han, *S. Aonzo*, P. Kotzias, A. Vitale, J. Caballero, D. Balzarotti, L. Bilge \
 In Proc. of the ACM Conference on Computer and Communications Security (CCS), 2023
-  + [[PDF]](https://arxiv.org/pdf/2307.14657) [[BibTeX]](/assets/bib/dambra2023decoding.bib) [[Slides]](https://docs.google.com/presentation/d/1fUGDNj3O8ZzE8b-UhVjh12nhcZWQfcZBVezz8yPIOVU/edit?usp=sharing)
+  + [[PDF]](https://dl.acm.org/doi/abs/10.1145/3576915.3616589) [[BibTeX]](/assets/bib/dambra2023decoding.bib) [[Slides]](https://docs.google.com/presentation/d/1fUGDNj3O8ZzE8b-UhVjh12nhcZWQfcZBVezz8yPIOVU/edit?usp=sharing)
 
 
 + **Android, notify me when it is time to go phishing** \
