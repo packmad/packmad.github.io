@@ -14,6 +14,11 @@ layout: single
 
 ## List of Publications
 
++ **The Polymorphism Maze: Understanding Diversities and Similarities in Malware Families** \
+A. Vitale, *S. Aonzo*, S. Dambra, N. Rani, L. Ippolito, P. Kotzias, J. Caballero and D. Balzarotti \
+European Symposium on Research in Computer Security (ESORICS), 2025 
+  + [[PDF]](/assets/pdf/) [[BibTeX]](/assets/bib/)
+
 + **A Closer Look at Modern Evasive Phishing Emails** \
 E. Boulila, M. Dacier, S. P. V. Peroumal, N. Veys, *S. Aonzo* \
 IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025 
