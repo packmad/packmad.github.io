@@ -14,15 +14,25 @@ layout: single
 
 ## List of Publications
 
++ **Unveiling BYOVD Threats: Malware's Use and Abuse of Kernel Drivers** \
+A. Monzani, A. Parata, A. Oliveri, *S. Aonzo*, D. Balzarotti, A. Lanzi \
+Network and Distributed System Security (NDSS), 2026
+  + [[PDF]](/assets/pdf/monzani2026unveiling.pdf) [[BibTeX]](/assets/bib/monzani2026unveiling.bib)
+
 + **The Polymorphism Maze: Understanding Diversities and Similarities in Malware Families** \
 A. Vitale, *S. Aonzo*, S. Dambra, N. Rani, L. Ippolito, P. Kotzias, J. Caballero and D. Balzarotti \
 European Symposium on Research in Computer Security (ESORICS), 2025 
-  + [[PDF]](/assets/pdf/) [[BibTeX]](/assets/bib/)
+  + [[PDF]](https://hal.science/hal-05222691/document) [[BibTeX]](/assets/bib/vitale2025polymorphism.bib) [[GitHub]](https://github.com/im-overlord04/PEDiff)
 
 + **A Closer Look at Modern Evasive Phishing Emails** \
 E. Boulila, M. Dacier, S. P. V. Peroumal, N. Veys, *S. Aonzo* \
 IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025 
-  + [[PDF]](/assets/pdf/boulila2025closer.pdf) [[BibTeX]](/assets/bib/boulila2025closer.bib)
+  + [[PDF]](/assets/pdf/boulila2025closer.pdf) [[BibTeX]](/assets/bib/boulila2025closer.bib) [[GitHub]](https://github.com/AmadeusITGroup/CrawlerBox)
+
++ **Mnemocrypt: A Machine Learning Approach for Cryptographic Function Detection in x86 Executables** \
+A. Pacteau, A. Vitale, D. Balzarotti, *S. Aonzo* \
+Workshop on Binary Analysis Research (BAR), Co-located with NDSS Symposium, 2025 
+  + [[PDF]](https://hal.science/hal-05127295/document) [[BibTeX]](/assets/bib/pacteau2025mnemocrypt.bib) [[GitHub]](https://github.com/theneonai/mnemocrypt)
 
 + **The Dark Side of Native Code on Android** \
 A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, D. Balzarotti \
