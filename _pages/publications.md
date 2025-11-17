@@ -19,8 +19,13 @@ A. Monzani, A. Parata, A. Oliveri, *S. Aonzo*, D. Balzarotti, A. Lanzi \
 Network and Distributed System Security (NDSS), 2026
   + [[PDF]](/assets/pdf/monzani2026unveiling.pdf) [[BibTeX]](/assets/bib/monzani2026unveiling.bib)
 
++ **Family Ties: A Close Look at the Influence of Static Features on the Precision of Malware Family Clustering** \
+A. Vitale, K. van Liebergen, J. Caballero, S. Dambra, P. Kotzias, *S. Aonzo*, D. Balzarotti
+APWG eCrime, 2025
+  + [[PDF]](/assets/pdf/vitale2025family.pdf)
+
 + **The Polymorphism Maze: Understanding Diversities and Similarities in Malware Families** \
-A. Vitale, *S. Aonzo*, S. Dambra, N. Rani, L. Ippolito, P. Kotzias, J. Caballero and D. Balzarotti \
+A. Vitale, *S. Aonzo*, S. Dambra, N. Rani, L. Ippolito, P. Kotzias, J. Caballero, D. Balzarotti \
 European Symposium on Research in Computer Security (ESORICS), 2025 
   + [[PDF]](https://hal.science/hal-05222691/document) [[BibTeX]](/assets/bib/vitale2025polymorphism.bib) [[GitHub]](https://github.com/im-overlord04/PEDiff)
 
@@ -56,7 +61,7 @@ ACM Conference on Computer and Communications Security (CCS), 2023
 
 
 + **Android, notify me when it is time to go phishing** \
-A. Ruggia, A. Possemato, A. Merlo, D. Nisi, and *S. Aonzo* \
+A. Ruggia, A. Possemato, A. Merlo, D. Nisi, *S. Aonzo* \
 IEEE European Symposium on Security and Privacy (EUROS&P), 2023 
   + [[PDF]](https://www.s3.eurecom.fr/docs/eurosp23_inotify.pdf) [[BibTeX]](https://www.s3.eurecom.fr/bibs/eurosp23_inotify.bib)
   + Press: [s3blogpost](https://www.s3.eurecom.fr/post/2023/03/06/android-notify-me-when-it-is-time-to-go-phishing/), [EurecomMedium](https://eurecom-blog.medium.com/a-new-vulnerability-is-identified-in-the-android-system-by-eurecom-researchers-a97643ed8180), [WiredIT](https://www.wired.it/article/android-vulnerabilita-genova/)
@@ -120,5 +125,6 @@ International Conference on Security and Cryptography (SECRYPT), 2017
 
 ## Ph.D. Thesis in Computer Science and Systems Engineering
 
-+ **Novel Attacks and Defenses in the Userland of Android**, 2019
++ **Novel Attacks and Defenses in the Userland of Android**, 2019 \
+*S. Aonzo*
   + [[PDF]](https://iris.unige.it/retrieve/handle/11567/990743/385940/phdunige_3338799.pdf) [[Slides]](https://docs.google.com/presentation/d/1wOjezg7cu_-SUrCUZhoCsCgiG0jvFWg-TjR8dWqNJ-M/edit?usp=sharing)
