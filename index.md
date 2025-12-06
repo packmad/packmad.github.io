@@ -46,4 +46,3 @@ I have a lot of hobbies, depending on the season (and sometimes I sleep):
 * Motorbike trips (I own a [Ducati Monster](https://en.wikipedia.org/wiki/Ducati_Monster) 695)
 * [Watching movies](https://www.imdb.com/user/ur39105709/ratings?sort=your_rating,desc&ratingFilter=0&mode=detail)
 * [Reading books](https://www.goodreads.com/review/list/81659096?shelf=read)
-* [Chess](https://www.chess.com/member/simone4onzo) (awful player)
