@@ -22,7 +22,7 @@ Network and Distributed System Security (NDSS), 2026
 + **Family Ties: A Close Look at the Influence of Static Features on the Precision of Malware Family Clustering** \
 A. Vitale, K. van Liebergen, J. Caballero, S. Dambra, P. Kotzias, *S. Aonzo*, D. Balzarotti
 APWG eCrime, 2025
-  + [[PDF]](/assets/pdf/vitale2025family.pdf)
+  + [[PDF]](/assets/pdf/vitale2025family.pdf) [[BibTeX]](/assets/bib/vitale2025family.bib)
 
 + **The Polymorphism Maze: Understanding Diversities and Similarities in Malware Families** \
 A. Vitale, *S. Aonzo*, S. Dambra, N. Rani, L. Ippolito, P. Kotzias, J. Caballero, D. Balzarotti \
