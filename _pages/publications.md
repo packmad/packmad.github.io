@@ -14,6 +14,11 @@ layout: single
 
 ## List of Publications
 
++ **Decompiling the Synergy: An Empirical Study of Human-LLM Teaming in Software Reverse Engineering** \
+Z. Basque, S. Doria, A. Soneji, W. Gibbs, A. Doupe', Y. Shoshitaishvili, E. Losiouk, R. Wang, *S. Aonzo*\
+Network and Distributed System Security (NDSS), 2026
+  + [[PDF]](https://s3.eurecom.fr/docs/ndss26_basque.pdf) [[BibTeX]](/assets/bib/basque2026decompiling.bib)
+
 + **Unveiling BYOVD Threats: Malware's Use and Abuse of Kernel Drivers** \
 A. Monzani, A. Parata, A. Oliveri, *S. Aonzo*, D. Balzarotti, A. Lanzi \
 Network and Distributed System Security (NDSS), 2026
