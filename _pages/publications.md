@@ -14,15 +14,21 @@ layout: single
 
 ## List of Publications
 
++ **Trust Under Siege: Label Spoofing Attacks Against Machine Learning for Android Malware Detection** \
+T. Lan; L. Demetrio; F. Nait-Abdesselam; Y. Han; *S. Aonzo* \
+IEEE Transactions on Information Forensics and Security, 2026
+  + [[PDF]](https://ieeexplore.ieee.org/document/11422270)
+
 + **Decompiling the Synergy: An Empirical Study of Human-LLM Teaming in Software Reverse Engineering** \
-Z. Basque, S. Doria, A. Soneji, W. Gibbs, A. Doupe', Y. Shoshitaishvili, E. Losiouk, R. Wang, *S. Aonzo*\
+Z. Basque, S. Doria, A. Soneji, W. Gibbs, A. Doupe', Y. Shoshitaishvili, E. Losiouk, R. Wang, *S. Aonzo* \
 Network and Distributed System Security (NDSS), 2026
-  + [[PDF]](https://s3.eurecom.fr/docs/ndss26_basque.pdf) [[BibTeX]](/assets/bib/basque2026decompiling.bib)
+  + Best Paper Award 🌟
+  + [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-f380-paper.pdf) [[BibTeX]](/assets/bib/basque2026decompiling.bib) [[Slides]](https://www.ndss-symposium.org/wp-content/uploads/f0380-basque-slides.pdf)
 
 + **Unveiling BYOVD Threats: Malware's Use and Abuse of Kernel Drivers** \
 A. Monzani, A. Parata, A. Oliveri, *S. Aonzo*, D. Balzarotti, A. Lanzi \
 Network and Distributed System Security (NDSS), 2026
-  + [[PDF]](/assets/pdf/monzani2026unveiling.pdf) [[BibTeX]](/assets/bib/monzani2026unveiling.bib)
+  + [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-s1491-paper.pdf) [[BibTeX]](/assets/bib/monzani2026unveiling.bib) [[Slides]](https://www.ndss-symposium.org/wp-content/uploads/s1491-monzani-slides.pdf)
 
 + **Family Ties: A Close Look at the Influence of Static Features on the Precision of Malware Family Clustering** \
 A. Vitale, K. van Liebergen, J. Caballero, S. Dambra, P. Kotzias, *S. Aonzo*, D. Balzarotti
