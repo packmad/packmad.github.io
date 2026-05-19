@@ -9,4 +9,4 @@ They are all licensed under the Creative Commons license Attribution-NonCommerci
 
 + [ARM - from Architecture to eXploitation](/arm_from_architecture_to_exploitation/) [discontinued]
 + [Introduction To Cybersecurity](/introsec/)
-+ [Reverse Engineering Malware](/reverse_engineering_malware/)
++ [Reverse Engineering Malware](https://github.com/packmad/revmal)

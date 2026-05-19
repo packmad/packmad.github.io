@@ -14,6 +14,12 @@ layout: single
 
 ## List of Publications
 
++ **SoK: Systematization, Detection, and Hunting of Windows Malware Persistence Techniques** \
+J. Nielen, A. Oliveri, J. Starink, A. Peter, M. Huisman, *S. Aonzo*, D. Balzarotti, A. Continella \
+ACM Asia conference on Computer and Communications Security (ASIACCS), 2026
+  + [[PDF]]() [[BibTeX]]()
+
+
 + **Trust Under Siege: Label Spoofing Attacks Against Machine Learning for Android Malware Detection** \
 T. Lan; L. Demetrio; F. Nait-Abdesselam; Y. Han; *S. Aonzo* \
 IEEE Transactions on Information Forensics and Security, 2026
