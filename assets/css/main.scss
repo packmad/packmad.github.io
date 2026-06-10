@@ -4,26 +4,235 @@
 
 @charset "utf-8";
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
 
+/* --------------------------------------------------------------------------
+   Hackademic / terminal-lab overrides (after theme import = wins cascade)
+   -------------------------------------------------------------------------- */
 
-/*
-GS: override any CSS with new CSS styles AFTER the `@import "minimal-mistakes";` line just above!
-See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
-Anything you place after this point will therefore "cascade and override" the previous CSS styles.
-*/
+$hack-bg: #0a0e14;
+$hack-surface: #0f141c;
+$hack-elevated: #151c28;
+$hack-border: #243044;
+$hack-text: #d8dee9;
+$hack-muted: #8899a8;
+$hack-green: #33d17a;
+$hack-green-dim: mix($hack-green, $hack-bg, 45%);
+$hack-cyan: #56c8d8;
+@mixin hack-mono {
+  font-family: "JetBrains Mono", ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace;
+}
 
-/*
-GS: Decrease font sizes of the entire website.
-Defaults for small, medium, large, and x-large screens are:
-16, 18, 20, and 22px, in that order. All other font sizes are "em"
-[typography unit](https://en.wikipedia.org/wiki/Em_(typography)) multipliers of these pixel
-(px) values, and are therefore relative to and changed by these singular pixel values.
-See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
-- It looks like the screen pixel sizes to move into each new "size" category are defined in
-  the "Breakpoints" section of "_variables.scss"?
-*/
+@mixin hack-sans {
+  font-family: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
 html {
-  @media (min-width: 80em) { .page { width: calc(100% - 300px); padding-right: 50px; } }
+  @media (min-width: 80em) {
+    .page {
+      width: calc(100% - 300px);
+      padding-right: 50px;
+    }
+  }
+}
+
+::selection {
+  background: rgba($hack-green, 0.28);
+  color: #fff;
+}
+
+body {
+  @include hack-sans;
+  background-color: $hack-bg !important;
+  color: $hack-text !important;
+  letter-spacing: 0.01em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.masthead__inner-wrap,
+.greedy-nav,
+.page__meta,
+.page__taxonomy,
+.page__taxonomy-item,
+.notice,
+.notice--primary,
+.nav__list .nav__items a,
+.archive__item-title,
+.sidebar .author__name,
+.sidebar .author__bio,
+.sidebar .author__urls-wrapper a {
+  @include hack-mono;
+}
+
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: $hack-text !important;
+
+  &::before {
+    color: $hack-green;
+    content: "[";
+    margin-right: 0.2em;
+    font-weight: 600;
+  }
+
+  &::after {
+    color: $hack-green;
+    content: "]";
+    margin-left: 0.2em;
+    font-weight: 600;
+  }
+}
+
+.masthead {
+  background: $hack-surface !important;
+  border-bottom: 1px solid rgba($hack-green, 0.35);
+  box-shadow: 0 0 24px rgba($hack-green, 0.06);
+}
+
+.masthead__menu-item a,
+.greedy-nav a {
+  color: $hack-muted !important;
+
+  &:hover {
+    color: $hack-green !important;
+  }
+}
+
+.page {
+  @include hack-sans;
+}
+
+.page__content {
+  font-size: 1.05rem;
+  line-height: 1.65;
+
+  a {
+    color: $hack-cyan !important;
+    text-decoration-color: rgba($hack-cyan, 0.45);
+
+    &:hover {
+      color: mix(#fff, $hack-cyan, 18%) !important;
+      text-decoration-color: rgba($hack-cyan, 0.85);
+    }
+
+    &:visited {
+      color: mix($hack-cyan, #9b7dd4, 70%) !important;
+    }
+  }
+
+  h1,
+  h2,
+  h3 {
+    color: $hack-text;
+    border-bottom-color: $hack-border !important;
+  }
+
+  blockquote {
+    border-left-color: $hack-green !important;
+    background: rgba($hack-elevated, 0.85);
+    color: mix($hack-text, $hack-muted, 80%);
+    @include hack-mono;
+    font-size: 0.92em;
+  }
+}
+
+code,
+kbd,
+pre,
+pre.highlight,
+.highlight {
+  @include hack-mono;
+}
+
+code {
+  background: rgba(#000, 0.35) !important;
+  border: 1px solid $hack-border;
+  color: mix(#fff, $hack-green, 14%) !important;
+  padding: 0.12em 0.35em;
+  border-radius: 3px;
+}
+
+pre.highlight,
+figure.highlight {
+  background: $hack-elevated !important;
+  border: 1px solid $hack-border;
+  border-left: 3px solid $hack-green;
+  border-radius: 4px;
+  box-shadow: inset 0 0 0 1px rgba(#000, 0.35);
+}
+
+.page__footer {
+  background: $hack-surface !important;
+  border-top: 1px solid $hack-border;
+}
+
+.page__footer-follow,
+.page__footer-copyright {
+  @include hack-mono;
+  color: $hack-muted !important;
+  font-size: 0.85rem;
+}
+
+.page__footer-follow a {
+  color: $hack-green-dim !important;
+
+  &:hover {
+    color: $hack-green !important;
+  }
+}
+
+.author__avatar img {
+  border: 2px solid rgba($hack-green, 0.45);
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px rgba(#000, 0.5), 0 4px 20px rgba($hack-green, 0.12);
+}
+
+.sidebar {
+  @include hack-mono;
+  font-size: 0.88rem;
+}
+
+.sidebar .author__bio {
+  color: $hack-muted !important;
+}
+
+.archive__item-excerpt {
+  color: $hack-muted !important;
+}
+
+.btn--primary,
+button[type="submit"],
+input[type="submit"] {
+  background-color: mix($hack-green, $hack-bg, 35%) !important;
+  border-color: $hack-green !important;
+  color: #fff !important;
+  @include hack-mono;
+
+  &:hover {
+    background-color: mix($hack-green, $hack-bg, 55%) !important;
+  }
+}
+
+/* Subtle terminal scan (very low contrast) */
+body::before {
+  content: "";
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  opacity: 0.025;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(#000, 0.45) 2px,
+    rgba(#000, 0.45) 3px
+  );
 }
