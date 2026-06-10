@@ -19,7 +19,7 @@ I work in the Software and System Security ([S3](https://www.s3.eurecom.fr/)) Gr
 
 My publications are listed [here](/publications/).
 
-I have contributed to the academic community by serving on the program committees of conferences such as USENIX Security and RAID, and as a reviewer for ACM TOPS. 
+I am contributing to the academic community by serving on the program committees of conferences such as USENIX Security, NDSS, and RAID, and as a reviewer for ACM TOPS. 
 
 As for teaching, I have two courses. A basic one, "Introduction to Cybersecurity", and an advanced one, "Reverse Engineering Malware". 
 In the spirit of open source, all my course material is publicly available [here](/courses/).
