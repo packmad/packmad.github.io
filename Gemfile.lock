@@ -33,6 +33,8 @@ GEM
       logger
     faraday-net_http (3.4.4)
       net-http (~> 0.5)
+    faraday-retry (2.4.0)
+      faraday (~> 2.0)
     ffi (1.17.4)
     ffi (1.17.4-aarch64-linux-gnu)
     ffi (1.17.4-aarch64-linux-musl)
@@ -241,6 +243,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  faraday-retry
   jekyll (~> 4.4)
   jekyll-feed
   jekyll-include-cache
