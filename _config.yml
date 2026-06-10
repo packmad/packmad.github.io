@@ -20,7 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the personal (unpretentious) website of Simone Aonzo. 
   Here you will find stuff about: cybersecurity, hacking, malware, Android...
 url: "https://simoneaonzo.it"
-twitter_username: packm4d
+twitter:
+  username: packm4d
 github_username: packmad
 minimal_mistakes_skin: dark
 
@@ -64,21 +65,21 @@ author:
   bio    : "~ Malware Hunter<br/>~ Assistant Professor<br/>~ Coffee fueled paper writer"
   email: "simone.aonzo@gmail.com"
   links:
-    - label: "Work"
-      icon: "fas fa-briefcase"
-      url: "https://www.eurecom.fr/en/people/aonzo-simone"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/packm4d"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/packmad"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/simone-aonzo-290b05180/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/packmad"
     - label: "Medium"
       icon: "fab fa-medium"
       url: "https://medium.com/@simone.aonzo"
+    - label: "X"
+      icon: "fab fa-fw fa-square-x-twitter"
+      url: "https://x.com/packm4d"
+    - label: "Work"
+      icon: "fas fa-briefcase"
+      url: "https://www.eurecom.fr/en/people/aonzo-simone"
     
 google_site_verification:
 analytics:

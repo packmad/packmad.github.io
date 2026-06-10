@@ -14,6 +14,8 @@ layout: single
 
 ## List of Publications
 
+### 2026
+
 + **SoK: Systematization, Detection, and Hunting of Windows Malware Persistence Techniques** \
 J. Nielen, A. Oliveri, J. Starink, A. Peter, M. Huisman, *S. Aonzo*, D. Balzarotti, A. Continella \
 ACM Asia conference on Computer and Communications Security (ASIACCS), 2026
@@ -35,6 +37,8 @@ Network and Distributed System Security (NDSS), 2026
 A. Monzani, A. Parata, A. Oliveri, *S. Aonzo*, D. Balzarotti, A. Lanzi \
 Network and Distributed System Security (NDSS), 2026
   + [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-s1491-paper.pdf) [[BibTeX]](/assets/bib/monzani2026unveiling.bib) [[Slides]](https://www.ndss-symposium.org/wp-content/uploads/s1491-monzani-slides.pdf)
+
+### 2025
 
 + **Family Ties: A Close Look at the Influence of Static Features on the Precision of Malware Family Clustering** \
 A. Vitale, K. van Liebergen, J. Caballero, S. Dambra, P. Kotzias, *S. Aonzo*, D. Balzarotti
@@ -61,6 +65,8 @@ A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, D. Balzarotti \
 ACM Transactions on Privacy and Security (TOPS), 2025
   + [[PDF]](https://dl.acm.org/doi/10.1145/3712308) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
 
+### 2024
+
 + **How to Train your Antivirus: RL-based Hardening through the Problem Space** \
 I. Tsingenopoulos, J. Cortellazzi, B. Bošanský, *S. Aonzo*, D. Preuveneers, W. Joosen, F. Pierazzi, L. Cavallaro \
 International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2024
@@ -70,6 +76,8 @@ International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 
 A. Ruggia, D. Nisi, S. Dambra, A. Merlo, D. Balzarotti, *S. Aonzo* \
 ACM Asia conference on Computer and Communications Security (ASIACCS), 2024
   + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3634737.3637658) [[BibTeX]](/assets/bib/ruggia2024unmasking.bib)
+
+### 2023
 
 + **Decoding the Secrets of Machine Learning in Malware Classification: A Deep Dive into Datasets, Feature Extraction, and Model Performance** \
 S. Dambra, Y. Han, *S. Aonzo*, P. Kotzias, A. Vitale, J. Caballero, D. Balzarotti, L. Bilge \
@@ -88,10 +96,14 @@ IEEE European Symposium on Security and Privacy (EUROS&P), 2023
 USENIX Security Symposium (USENIX-Security), 2023 
   + [[PDF]](https://www.usenix.org/system/files/usenixsecurity23-aonzo.pdf) [[BibTeX]](/assets/bib/aonzo2023humans.bib) [[Slides]](https://docs.google.com/presentation/d/1pArIOq3WgUUusjDtFK9ntaGbeiUUbzmCuHxEe2lTaG4/edit?usp=sharing) [[Video]](https://youtu.be/atK2jQvebqE?si=tC6am18IxoyZSBpj)
 
+### 2022
+
 + **RE-Mind: a First Look Inside the Mind of a Reverse Engineer** \
 A. Mantovani, *S. Aonzo*, Y. Fratantonio, D. Balzarotti \
 USENIX Security Symposium (USENIX-Security), 2022 
   + [[PDF]](https://www.usenix.org/system/files/sec22-mantovani.pdf) [[BibTeX]](/assets/bib/mantovani2022remind.bib) [[Slides]](https://docs.google.com/presentation/d/1oJWV0oNEKpdzyCCvK2NbRl0LPvMiJHhZOfETeIXu0wA/edit?usp=sharing) [[Video]](https://www.youtube.com/watch?v=n7mVyF5hplI)
+
+### 2021
 
 + **Trust, But Verify: A Longitudinal Analysis Of Android OEM Compliance and Customization** \
 A. Possemato, *S. Aonzo*, D. Balzarotti, Y. Fratantonio \
@@ -102,6 +114,8 @@ IEEE Symposium on Security and Privacy (S&P), 2021
 L. Maffia, D. Nisi, P. Kotzias, G. Lagorio, *S. Aonzo*, D Balzarotti \
 arXiv preprint, 2021
   + [[PDF]](https://arxiv.org/pdf/2112.11289) [[BibTeX]](/assets/bib/maffia2021longitudinal.bib) 
+
+### 2020
 
 + **Prevalence and impact of low-entropy packing schemes in the malware ecosystem** \
   A. Mantovani, *S. Aonzo*, X. Ugarte-Pedrero, A. Merlo, D. Balzarotti \
@@ -115,29 +129,36 @@ SoftwareX, Volume 11, 2020
   + [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352711019302791) [[BibTeX]](/assets/bib/aonzo2020obfuscapk.bib)
   + Website: [https://github.com/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)
 
+### 2019
+
 + **Droids in Disarray: Detecting Frame Confusion in Hybrid Android Apps** \
 D. Caputo, L. Verderame, *S. Aonzo*, A. Merlo \
 IFIP Conference on Data and Applications Security and Privacy (DBSec), 2019 
   + [[PDF]](/assets/pdf/Droids_in_Disarray_DetectingFrame_ConfusioninHybrid_Android_Apps.pdf) [[BibTeX]](/assets/bib/caputo2019droids.bib) [[Slides]](https://docs.google.com/presentation/d/1iSoeMAFL4JTrZlUDtDoZPoC-UJ7-aYsanFvc3MTCexc/edit?usp=sharing)
 
-+ **Phishing Attacks on Modern Android**
-*S. Aonzo*, A. Merlo, G. Tavella, Y. Fratantonio
+### 2018
+
++ **Phishing Attacks on Modern Android** \
+*S. Aonzo*, A. Merlo, G. Tavella, Y. Fratantonio \
 ACM Conference on Computer and Communications Security (CCS), 2018
   + [[PDF]](/assets/pdf/Phishing_Attacks_on_Modern_Android.pdf) [[BibTeX]](/assets/bib/aonzo2018phishing.bib) [[Video]](https://www.youtube.com/watch?v=J1tx4OZ_wMc) [[Slides]](https://docs.google.com/presentation/d/1YCQaVhk8Oww9liguba4wiRyGiC8SUlA-Fte7i8F0BTY)
   + Website: [http://www.s3.eurecom.fr/projects/modern-android-phishing/](http://www.s3.eurecom.fr/projects/modern-android-phishing/)
   + Press: [SlashDot](https://slashdot.org/story/18/09/26/1534203/password-managers-can-be-tricked-into-believing-that-malicious-android-apps-are-legitimate), [The Register](https://www.theregister.co.uk/2018/09/26/password_manager_theft/), [Threat Post](https://threatpost.com/android-app-verification-issues-pave-way-for-phishing-attacks/137774/), [ZDNet](https://www.zdnet.com/article/password-managers-can-be-tricked-into-believing-that-malicious-android-apps-are-legitimate/), [Duo Security](https://duo.com/decipher/researchers-identify-new-phishing-tactics-on-android-devices), [Naked Security](https://nakedsecurity.sophos.com/2018/09/28/mobile-password-managers-vulnerable-to-phishing-apps/), [Keeper Security](https://keepersecurity.com/blog/2018/09/26/response-to-phishing-attacks-on-android-password-managers/), [LastPass](https://blog.lastpass.com/2019/02/lastpass-bugcrowd-update-2h-2018.html/), [Corriere della Sera [ITA]](https://www.corriere.it/tecnologia/18_settembre_26/minaccia-phishing-android-mobile-password-manager-rischio-10bfb0dc-c0ca-11e8-8c2f-234b69fe8a3d.shtml)
 
-
-+ **Low-Resource Footprint, Data-driven Malware Detection on Android** \
-*S. Aonzo*, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri \
-IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), 2015 
-  + [[PDF]](/assets/pdf/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf) [[BibTeX]](/assets/bib/aonzo2017low.bib)
+### 2017
 
 + **RmPerm: a Tool for Android Permissions Removal** \
 *S. Aonzo*, G. Lagorio, A. Merlo \
 International Conference on Security and Cryptography (SECRYPT), 2017 
   + [[PDF]](/assets/pdf/RmPerm_a_Tool_for_Android_Permissions_Removal.pdf) [[BibTeX]](/assets/bib/aonzo2017rmperm.bib)
   + Website: [https://github.com/RmPerm](https://github.com/packmad/RmPerm)
+
+### 2015
+
++ **Low-Resource Footprint, Data-driven Malware Detection on Android** \
+*S. Aonzo*, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri \
+IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), 2015 
+  + [[PDF]](/assets/pdf/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf) [[BibTeX]](/assets/bib/aonzo2017low.bib)
 
 
 ## Ph.D. Thesis in Computer Science and Systems Engineering
