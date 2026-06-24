@@ -19,13 +19,13 @@ layout: single
 + **SoK: Systematization, Detection, and Hunting of Windows Malware Persistence Techniques** \
 J. Nielen, A. Oliveri, J. Starink, A. Peter, M. Huisman, *S. Aonzo*, D. Balzarotti, A. Continella \
 ACM Asia conference on Computer and Communications Security (ASIACCS), 2026
-  + [[PDF]]() [[BibTeX]]()
+  + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3779208.3805971) [[BibTeX]](/assets/bib/van2026sok.bib)
 
 
 + **Trust Under Siege: Label Spoofing Attacks Against Machine Learning for Android Malware Detection** \
 T. Lan; L. Demetrio; F. Nait-Abdesselam; Y. Han; *S. Aonzo* \
 IEEE Transactions on Information Forensics and Security, 2026
-  + [[PDF]](https://ieeexplore.ieee.org/document/11422270)
+  + [[PDF]](https://ieeexplore.ieee.org/document/11422270) [[BibTeX]](/assets/bib/lan2026trust.bib)
 
 + **Decompiling the Synergy: An Empirical Study of Human-LLM Teaming in Software Reverse Engineering** \
 Z. Basque, S. Doria, A. Soneji, W. Gibbs, A. Doupe', Y. Shoshitaishvili, E. Losiouk, R. Wang, *S. Aonzo* \
