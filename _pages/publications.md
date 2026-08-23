@@ -10,6 +10,7 @@ layout: single
 + [Research Gate](https://www.researchgate.net/profile/Simone_Aonzo)
 + [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57195635255)
 + [ORCID](https://orcid.org/0000-0001-9547-3502)
++ [DBLP](https://dblp.org/pid/204/5152.html)
 
 
 ## List of Publications
