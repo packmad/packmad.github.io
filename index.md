@@ -30,6 +30,15 @@ In the spirit of open source, all my course material is publicly available [here
 Beyond academia, I co-founded [ThreatNemesis](https://tnemesis.com/), a cybersecurity startup specializing in Android sandboxing technology, built on years of research and a healthy amount of stubbornness.
 
 
+### Copy-paste short bio
+
+```
+Simone Aonzo is an Assistant Professor of Cybersecurity at EURECOM (France), where he studies how human and artificial intelligence try to outsmart one another.
+Before academia, Simone worked as a pentester and malware analyst, and later co-founded the cybersecurity startup ThreatNemesis. His research spans system security, malware analysis, phishing, and applied AI. His work ranges from uncovering vulnerabilities in Android systems to understanding complex malware and exploring how modern AI systems are reshaping security analysis and reverse engineering. He also serves the research community at top-tier security conferences, including USENIX Security and NDSS.
+
+```
+
+
 ### Personal life
 
 I am [Italian](https://en.wikipedia.org/wiki/Italy), born in 1988 in [Savona](https://en.wikipedia.org/wiki/Savona).
