@@ -17,19 +17,28 @@ layout: single
 
 ### 2026
 
++ **Beyond Isolated Phishing Emails: Discovering Hidden Campaign Relationships with MCDA** \
+E. Boulila, M. Dacier, S. P. V. Peroumal, N. Veys, *S. Aonzo* \
+International Conference on Information and Communications Security (ICICS), 2026
+  + [[PDF]](https://hal.science/hal-05681185/document) [[BibTeX]](/assets/bib/boulila2026beyond.bib)
+
 + **SoK: Systematization, Detection, and Hunting of Windows Malware Persistence Techniques** \
-J. Nielen, A. Oliveri, J. Starink, A. Peter, M. Huisman, *S. Aonzo*, D. Balzarotti, A. Continella \
-ACM Asia conference on Computer and Communications Security (ASIACCS), 2026
+J. van Nielen, A. Oliveri, J. Starink, A. Peter, M. Huisman, *S. Aonzo*, D. Balzarotti, A. Continella \
+ACM Asia Conference on Computer and Communications Security (ASIACCS), 2026
   + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3779208.3805971) [[BibTeX]](/assets/bib/van2026sok.bib)
 
++ **Evasive Intelligence: Lessons from Malware Analysis for Evaluating AI Agents** \
+*S. Aonzo*, M. Sahin, A. Francillon, D. Perito \
+arXiv preprint, 2026
+  + [[PDF]](https://arxiv.org/pdf/2603.15457) [[BibTeX]](/assets/bib/aonzo2026evasive.bib)
 
 + **Trust Under Siege: Label Spoofing Attacks Against Machine Learning for Android Malware Detection** \
-T. Lan; L. Demetrio; F. Nait-Abdesselam; Y. Han; *S. Aonzo* \
+T. Lan, L. Demetrio, F. Nait-Abdesselam, Y. Han, *S. Aonzo* \
 IEEE Transactions on Information Forensics and Security, 2026
   + [[PDF]](https://ieeexplore.ieee.org/document/11422270) [[BibTeX]](/assets/bib/lan2026trust.bib)
 
 + **Decompiling the Synergy: An Empirical Study of Human-LLM Teaming in Software Reverse Engineering** \
-Z. Basque, S. Doria, A. Soneji, W. Gibbs, A. Doupe', Y. Shoshitaishvili, E. Losiouk, R. Wang, *S. Aonzo* \
+Z. Basque, S. Doria, A. Soneji, W. Gibbs, A. Doupé, Y. Shoshitaishvili, E. Losiouk, R. Wang, *S. Aonzo* \
 Network and Distributed System Security (NDSS), 2026
   + Best Paper Award 🌟
   + [[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-f380-paper.pdf) [[BibTeX]](/assets/bib/basque2026decompiling.bib) [[Slides]](https://www.ndss-symposium.org/wp-content/uploads/f0380-basque-slides.pdf)
@@ -42,7 +51,7 @@ Network and Distributed System Security (NDSS), 2026
 ### 2025
 
 + **Family Ties: A Close Look at the Influence of Static Features on the Precision of Malware Family Clustering** \
-A. Vitale, K. van Liebergen, J. Caballero, S. Dambra, P. Kotzias, *S. Aonzo*, D. Balzarotti
+A. Vitale, K. van Liebergen, J. Caballero, S. Dambra, P. Kotzias, *S. Aonzo*, D. Balzarotti \
 APWG eCrime, 2025
   + [[PDF]](/assets/pdf/vitale2025family.pdf) [[BibTeX]](/assets/bib/vitale2025family.bib)
 
@@ -64,7 +73,7 @@ Workshop on Binary Analysis Research (BAR), Co-located with NDSS Symposium, 2025
 + **The Dark Side of Native Code on Android** \
 A. Ruggia, A. Possemato, S. Dambra, A. Merlo, *S. Aonzo*, D. Balzarotti \
 ACM Transactions on Privacy and Security (TOPS), 2025
-  + [[PDF]](https://dl.acm.org/doi/10.1145/3712308) [[BibTeX]](/assets/bib/ruggia2022dark.bib)
+  + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3712308) [[BibTeX]](/assets/bib/ruggia2025dark.bib)
 
 ### 2024
 
@@ -75,7 +84,7 @@ International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 
 
 + **Unmasking the Veiled: A Comprehensive Analysis of Android Evasive Malware** \
 A. Ruggia, D. Nisi, S. Dambra, A. Merlo, D. Balzarotti, *S. Aonzo* \
-ACM Asia conference on Computer and Communications Security (ASIACCS), 2024
+ACM Asia Conference on Computer and Communications Security (ASIACCS), 2024
   + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3634737.3637658) [[BibTeX]](/assets/bib/ruggia2024unmasking.bib)
 
 ### 2023
@@ -112,7 +121,7 @@ IEEE Symposium on Security and Privacy (S&P), 2021
   + [[PDF]](/assets/pdf/2021_oakland_customizations.pdf) [[BibTeX]](/assets/bib/possemato2021trust.bib) [[Video]](https://www.youtube.com/watch?v=Giy7JZRbADc)
 
 + **Longitudinal study of the prevalence of malware evasive techniques** \
-L. Maffia, D. Nisi, P. Kotzias, G. Lagorio, *S. Aonzo*, D Balzarotti \
+L. Maffia, D. Nisi, P. Kotzias, G. Lagorio, *S. Aonzo*, D. Balzarotti \
 arXiv preprint, 2021
   + [[PDF]](https://arxiv.org/pdf/2112.11289) [[BibTeX]](/assets/bib/maffia2021longitudinal.bib) 
 
@@ -129,6 +138,11 @@ Network and Distributed System Security (NDSS), 2020
 SoftwareX, Volume 11, 2020
   + [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352711019302791) [[BibTeX]](/assets/bib/aonzo2020obfuscapk.bib)
   + Website: [https://github.com/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)
+
++ **Low-Resource Footprint, Data-Driven Malware Detection on Android** \
+*S. Aonzo*, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri \
+IEEE Transactions on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), 2020
+  + [[PDF]](/assets/pdf/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf) [[BibTeX]](/assets/bib/aonzo2017low.bib)
 
 ### 2019
 
@@ -154,16 +168,8 @@ International Conference on Security and Cryptography (SECRYPT), 2017
   + [[PDF]](/assets/pdf/RmPerm_a_Tool_for_Android_Permissions_Removal.pdf) [[BibTeX]](/assets/bib/aonzo2017rmperm.bib)
   + Website: [https://github.com/RmPerm](https://github.com/packmad/RmPerm)
 
-### 2015
-
-+ **Low-Resource Footprint, Data-driven Malware Detection on Android** \
-*S. Aonzo*, A. Merlo, M. Migliardi, L. Oneto, F. Palmieri \
-IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274860), 2015 
-  + [[PDF]](/assets/pdf/Low-Resource_Footprint,Data-Driven_Malware_Detection_on_Android.pdf) [[BibTeX]](/assets/bib/aonzo2017low.bib)
-
-
 ## Ph.D. Thesis in Computer Science and Systems Engineering
 
-+ **Novel Attacks and Defenses in the Userland of Android**, 2019 \
++ **Novel Attacks and Defenses in the Userland of Android**, 2020 \
 *S. Aonzo*
   + [[PDF]](https://unige.iris.cineca.it/bitstream/11567/990743/1/phdunige_3338799.pdf) [[Slides]](https://docs.google.com/presentation/d/1wOjezg7cu_-SUrCUZhoCsCgiG0jvFWg-TjR8dWqNJ-M/edit?usp=sharing)
