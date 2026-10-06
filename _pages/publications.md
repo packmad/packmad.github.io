@@ -166,4 +166,4 @@ IEEE Transaction on [Sustainable Computing](https://ieeexplore.ieee.org/xpl/Rece
 
 + **Novel Attacks and Defenses in the Userland of Android**, 2019 \
 *S. Aonzo*
-  + [[PDF]](https://iris.unige.it/retrieve/handle/11567/990743/385940/phdunige_3338799.pdf) [[Slides]](https://docs.google.com/presentation/d/1wOjezg7cu_-SUrCUZhoCsCgiG0jvFWg-TjR8dWqNJ-M/edit?usp=sharing)
+  + [[PDF]](https://unige.iris.cineca.it/bitstream/11567/990743/1/phdunige_3338799.pdf) [[Slides]](https://docs.google.com/presentation/d/1wOjezg7cu_-SUrCUZhoCsCgiG0jvFWg-TjR8dWqNJ-M/edit?usp=sharing)
