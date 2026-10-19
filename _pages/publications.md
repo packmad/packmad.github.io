@@ -85,7 +85,7 @@ International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 
 + **Unmasking the Veiled: A Comprehensive Analysis of Android Evasive Malware** \
 A. Ruggia, D. Nisi, S. Dambra, A. Merlo, D. Balzarotti, *S. Aonzo* \
 ACM Asia Conference on Computer and Communications Security (ASIACCS), 2024
-  + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3634737.3637658) [[BibTeX]](/assets/bib/ruggia2024unmasking.bib)
+  + [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3634737.3637658) [[BibTeX]](/assets/bib/ruggia2024unmasking.bib) [[Slides]](https://docs.google.com/presentation/d/1fUGDNj3O8ZzE8b-UhVjh12nhcZWQfcZBVezz8yPIOVU/edit?usp=sharing)
 
 ### 2023
 
