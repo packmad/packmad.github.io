@@ -15,7 +15,7 @@ layout: single
 
 ## List of Publications
 
-*Venue rankings: conferences follow [ICORE 2026](https://portal.core.edu.au/conf-ranks/) (A*, A, B, C); journal quartiles follow the [SCImago Journal Rank (SJR)](https://www.scimagojr.com/) 2025 best-quartile classification (Q1–Q4). Rankings apply to publication venues, not individual papers.*
+*Venue rankings*: conferences follow [ICORE 2026](https://portal.core.edu.au/conf-ranks/) (A*, A, B, C); journal quartiles follow the [SCImago Journal Rank (SJR)](https://www.scimagojr.com/) 2025 best-quartile classification (Q1–Q4).
 
 
 ### 2026
