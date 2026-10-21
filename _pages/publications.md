@@ -15,6 +15,8 @@ layout: single
 
 ## List of Publications
 
+*Venue rankings: conferences follow [ICORE 2026](https://portal.core.edu.au/conf-ranks/) (A*, A, B, C); journal quartiles follow the [SCImago Journal Rank (SJR)](https://www.scimagojr.com/) 2025 best-quartile classification (Q1–Q4). Rankings apply to publication venues, not individual papers.*
+
 
 ### 2027 
 
@@ -113,7 +115,7 @@ ACM Asia Conference on Computer and Communications Security (ASIACCS), 2024
 S. Dambra, Y. Han, *S. Aonzo*, P. Kotzias, A. Vitale, J. Caballero, D. Balzarotti, L. Bilge \
 ACM Conference on Computer and Communications Security (CCS), 2023
   + 🥇 A* conference
-  + [[PDF]](https://dl.acm.org/doi/abs/10.1145/3576915.3616589) [[BibTeX]](/assets/bib/dambra2023decoding.bib) [[Slides]](https://docs.google.com/presentation/d/1fUGDNj3O8ZzE8b-UhVjh12nhcZWQfcZBVezz8yPIOVU/edit?usp=sharing)
+  + [[PDF]](https://dl.acm.org/doi/abs/10.1145/3576915.3616589) [[BibTeX]](/assets/bib/dambra2023decoding.bib)
 
 
 + **Android, notify me when it is time to go phishing** \
