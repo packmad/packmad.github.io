@@ -30,6 +30,7 @@ Computers & Security (COSE)
 + **Beyond Isolated Phishing Emails: Discovering Hidden Campaign Relationships with MCDA** \
 E. Boulila, M. Dacier, S. P. V. Peroumal, N. Veys, *S. Aonzo* \
 International Conference on Information and Communications Security (ICICS), 2026
+  + 🎖 C conference
   + [[PDF]](https://hal.science/hal-05681185/document) [[BibTeX]](/assets/bib/boulila2026beyond.bib)
 
 + **SoK: Systematization, Detection, and Hunting of Windows Malware Persistence Techniques** \
@@ -161,6 +162,7 @@ Network and Distributed System Security (NDSS), 2020
 + **Obfuscapk: An open-source black-box obfuscation tool for Android apps** \
 *S. Aonzo*, G. C. Georgiu, L. Verderame, A. Merlo \
 SoftwareX, Volume 11, 2020
+  + 🥈 Q2 journal
   + [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352711019302791) [[BibTeX]](/assets/bib/aonzo2020obfuscapk.bib)
   + Website: [https://github.com/Obfuscapk](https://github.com/ClaudiuGeorgiu/Obfuscapk)
 
