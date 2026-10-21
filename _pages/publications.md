@@ -24,7 +24,7 @@ layout: single
 A. Monzani, A. Parata, D. Netti, A. Romaniello, A. Oliveri, *S. Aonzo*, D. Balzarotti, A. Lanzi \
 Computers & Security (COSE)
   + 🥇 Q1 journal
-  + [[PDF]](https://doi.org/10.1016/j.cose.2026.105194) [[BibTeX]](/assets/bib/monzani2026hybrid.bib)
+  + [[PDF]](/assets/pdf/monzani2026hybrid.pdf) [[BibTeX]](/assets/bib/monzani2026hybrid.bib)
 
 
 ### 2026
