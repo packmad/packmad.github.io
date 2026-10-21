@@ -18,16 +18,13 @@ layout: single
 *Venue rankings: conferences follow [ICORE 2026](https://portal.core.edu.au/conf-ranks/) (A*, A, B, C); journal quartiles follow the [SCImago Journal Rank (SJR)](https://www.scimagojr.com/) 2025 best-quartile classification (Q1–Q4). Rankings apply to publication venues, not individual papers.*
 
 
-### 2027 
+### 2026
 
 + **A hybrid static-dynamic analysis for identifying BYOVD vulnerabilities** \
 A. Monzani, A. Parata, D. Netti, A. Romaniello, A. Oliveri, *S. Aonzo*, D. Balzarotti, A. Lanzi \
 Computers & Security (COSE)
   + 🥇 Q1 journal
   + [[PDF]](/assets/pdf/monzani2026hybrid.pdf) [[BibTeX]](/assets/bib/monzani2026hybrid.bib)
-
-
-### 2026
 
 + **Beyond Isolated Phishing Emails: Discovering Hidden Campaign Relationships with MCDA** \
 E. Boulila, M. Dacier, S. P. V. Peroumal, N. Veys, *S. Aonzo* \
